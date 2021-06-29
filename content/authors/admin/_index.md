@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a first-year PhD student in the Statistics program at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in Statistics & Data Science at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from Kwame Nkrumah University of Science and Tech.   
+I am a first-year PhD student in the Statistics program at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in Statistics & Data Science at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from Kwame Nkrumah University of Science and Technology.   
 
 I am open to vast research areas but currently exploring the fields of Statistical Machine Learning, Computational Statistics, Probabilistic Graphical Models and Bayesian Analysis, with applications in public health.
 
