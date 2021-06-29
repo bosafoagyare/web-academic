@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: bagyare@umich.edu
+#email: bagyare@umich.edu
 #phone: 888 888 88 88
 #address:
 #  street: 450 Serra Mall
@@ -36,7 +36,7 @@ email: bagyare@umich.edu
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/bosafoagyare/'
 contact_links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -140,7 +140,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: 
   algolia:
     app_id: ''
     api_key: ''
