@@ -18,11 +18,7 @@ subtitle:
 date_format: Jan 2006
 
 # Adopt "interest" widget
-interests:
-- Statistical Machine Learning
-- Computational Statistics
-- Probalistic Graphical Models
-- Bayesian Analysis
+
 
 design:
   columns: '2'
