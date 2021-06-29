@@ -1,36 +1,35 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: awards
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 55
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-# title: 'Accomplish&shy;ments'
-title: 'Honors & Awards'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Awards.
+# Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ''
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-07-01"
+  date_start: "2021-01-25"
   description: ""
-  organization: International Association of Black Actuaries (IABA)
+  organization: Coursera
   organization_url: https://www.coursera.org
-  title: IABA Foundation Scholar
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
