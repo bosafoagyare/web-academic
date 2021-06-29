@@ -50,24 +50,6 @@ item:
   title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
 
-- certificate_url: ''
-  date_end: ""
-  date_start: "2017-01-01"
-  description: ""
-  organization: Actuaial Science Students' Association, KNUST
-  organization_url: 
-  title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
-  url: ""
-  
-- certificate_url: ''
-  date_end: ""
-  date_start: "2013-09-01"
-  description: "Best student award for the West African Senior School Certificate Examination (Out of over 1,000 candidates at Mpraeso High School in 2013)"
-  organization: Mpraeso High Schoo (WASSCE 2013 sitting)
-  organization_url: 
-  title: Overall Best Student
-  url: ""
-
 design:
   columns: '2' 
 ---
