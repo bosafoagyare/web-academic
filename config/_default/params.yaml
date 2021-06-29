@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: my_theme
 day_night: true
 font: my_font_set
 font_size: S
