@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "family=Vesper+Libre&family=Viaoda+Libre&family=Oxygen&family=Raleway"
+
+# Font families
+heading_font = "Vesper Libre"
+body_font = "Raleway"
+nav_font = "Vesper Libre"
+mono_font = "Raleway"
