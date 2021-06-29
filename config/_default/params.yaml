@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: my_font_set
-font_size: L
+font_size: S
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: bagyare@umich.edu
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -54,12 +54,16 @@ contact_links:
     icon_pack: fas
     name: Discuss on Forum
     link: 'https://discourse.gohugo.io'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn Profile
+    link: https://www.linkedin.com/in/benjamin-osafo-agyare/
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
