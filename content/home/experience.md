@@ -22,28 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Instructor
+    company: University of Nevada, Reno
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: Nevada
+    date_start: '2021-07-12'
+    date_end: '2021-08-12'
+    description: Taught summer classes in Pre-Calculus II (MATH 127).
+
+  - title: Summer Actuarial Intern
+    company: CAS Student Central
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2021-06-28'
+    date_end: '2021-08-14'
     description: |2-
-        Responsibilities include:
+        Casualty Actuarial Society P&C training in:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Ratemaking
+        * Reserving
+        * Predictive Modeling
+        * Data Visualization
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Predictive Modeling Intern
+    company: ''
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Nevada
+    date_start: '2020-05-26'
+    date_end: '2020-08-14'
+    description: |2-
+              
+        * Performed Territorial Analysis on claim frequencies using Spatially Constrained ClusteringAlgorithms and Generalized Additive Models to re-cluster rating territories for refining pricingmodels.
+        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
+        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
+
+  - title: Math Instructor
+    company: International Community School
+    company_url: ''
+    company_logo: ''
+    location: Ghana
+    date_start: '2018-08-03'
+    date_end: '2019-06-14'
+    description: |2-
+              
+        * Performed Territorial Analysis on claim frequencies using Spatially Constrained ClusteringAlgorithms and Generalized Additive Models to re-cluster rating territories for refining pricingmodels.
+        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
+        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
 
 design:
   columns: '2'
