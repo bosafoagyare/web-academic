@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Instructor
     company: University of Nevada, Reno
-    company_url: ''
+    company_url: https://www.unr.edu/math
     company_logo: ''
     location: Nevada
     date_start: '2021-07-12'
@@ -33,7 +33,7 @@ experience:
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
-    company_url: ''
+    company_url: https://www.casact.org/
     company_logo: ''
     location: ''
     date_start: '2021-06-28'
@@ -47,8 +47,8 @@ experience:
         * Data Visualization
         
   - title: Predictive Modeling Intern
-    company: ''
-    company_url: ''
+    company: Employers Insurance Group
+    company_url: https://www.employers.com/
     company_logo: ''
     location: Nevada
     date_start: '2020-05-26'
@@ -61,16 +61,15 @@ experience:
 
   - title: Math Instructor
     company: International Community School
-    company_url: ''
+    company_url: https://icsghana.org/
     company_logo: ''
     location: Ghana
     date_start: '2018-08-03'
     date_end: '2019-06-14'
     description: |2-
               
-        * Performed Territorial Analysis on claim frequencies using Spatially Constrained ClusteringAlgorithms and Generalized Additive Models to re-cluster rating territories for refining pricingmodels.
-        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
-        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
+        * Taught Cambridge O and A Level Mathematics to prepare students for the IGCSE exams. 
+        * Rated distinction in teaching within first 3 months into the job.
 
 design:
   columns: '2'
