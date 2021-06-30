@@ -20,11 +20,10 @@ interests:
 - Statistical Machine Learning
 - Computational Statistics
 - Probalistic Graphical Models
-- Bayesian Analysis
+- Bayesian Analysi
 
 # Section design
 design:
   # Use a 1-column layout
-  columns: "2"
-  
+  columns: "2" 
 ---
