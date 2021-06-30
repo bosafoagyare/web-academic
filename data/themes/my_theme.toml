@@ -5,7 +5,7 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "#d5b10f"
+#primary = "#d5b10f"
 
 # Menu
 #menu_primary = "#ffd738"
@@ -17,11 +17,14 @@ primary = "#d5b10f"
 #home_section_odd = "rgb(255, 255, 255)"
 #home_section_even = "#f7f7f7"
 
+# Primary
+primary = "#d5b10f"
+
 # Menu
-#menu_primary = "#ffd738"
-#menu_text = "#00284d"
-#menu_text_active = "#002547"
-#menu_title = "#002547"
+menu_primary = "#ffd738"
+menu_text = "#00284d"
+menu_text_active = "#002547"
+menu_title = "#002547"
 
 # Backgrounds
 home_section_odd = "#00284d"
