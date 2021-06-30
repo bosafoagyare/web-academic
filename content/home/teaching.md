@@ -16,14 +16,17 @@ title: Teaching
 subtitle:
 
 # content
-interests:
-- Statistical Machine Learning
-- Computational Statistics
-- Probalistic Graphical Models
-- Bayesian Analysi
+
 
 # Section design
 design:
   # Use a 1-column layout
   columns: "2" 
 ---
+
+
+interests:
+- Statistical Machine Learning
+- Computational Statistics
+- Probalistic Graphical Models
+- Bayesian Analysi
