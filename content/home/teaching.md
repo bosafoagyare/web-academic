@@ -27,5 +27,5 @@ design:
 
 ### Graduate Teaching Assistant, University of Nevada, Reno
 - MATH 127 - Pre-Calculus II(∼70 students) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2021
-- MATH 181 - Calculus I(∼90 students) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2020
+- MATH 181 - Calculus I(∼90 students) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2020
 - MATH 126 - Pre-Calculus I(∼140 students) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2019
