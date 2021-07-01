@@ -36,7 +36,7 @@ item:
   date_end: ""
   date_start: "2020-05-18"
   description: ""
-  organization: Department of Mathematics & Statistics,  Universityof Nevada, Reno
+  organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
   title: 1st Place, Capstone Project Competition in Bayesian Statistics
   url: ""
@@ -45,7 +45,7 @@ item:
   date_end: ""
   date_start: "2019-12-11"
   description: ""
-  organization: Department of Mathematics & Statistics,  Universityof Nevada, Reno
+  organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
   title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
@@ -65,7 +65,7 @@ item:
   date_end: ""
   date_start: "2013-09-01"
   description: "Best student award for the West African Senior School Certificate Examination (Out of over 1,000 candidates at Mpraeso High School in 2013)"
-  organization: Mpraeso High Schoo (WASSCE 2013 sitting)
+  organization: Mpraeso High School (WASSCE 2013 sitting)
   organization_url: 
   title: Overall Best Student
   url: ""
