@@ -55,7 +55,7 @@ experience:
     date_end: '2020-08-14'
     description: |2-
               
-        * Performed Territorial Analysis on claim frequencies using Spatially Constrained ClusteringAlgorithms and Generalized Additive Models to re-cluster rating territories for refining pricingmodels.
+        * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
         * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
         * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
 
