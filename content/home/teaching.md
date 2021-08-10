@@ -24,6 +24,9 @@ design:
   columns: "2" 
 ---
 
+### Graduate Student Instructor, University of Michigan, Ann Arbor
+- STATS 406 - Computational Methods in Statistics and Data Science &nbsp; || &nbsp; Fall 2021
+
 
 ### Graduate Teaching Assistant, University of Nevada, Reno
 - MATH 127 - Pre-Calculus II (∼70 students) &nbsp; || &nbsp; Spring 2021
