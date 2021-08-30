@@ -20,7 +20,7 @@ bio: PhD Statistics student.
 interests:
 - Statistical Machine Learning
 - Computational Statistics
-- Probalistic Graphical Models
+- Network Analysis
 - Bayesian Analysis
 
 # Education to show in About widget
