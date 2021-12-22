@@ -25,6 +25,7 @@ design:
 ---
 
 ### Graduate Student Instructor, University of Michigan, Ann Arbor
+- STATS 306 - Introduction to Statistical Computing &nbsp; || &nbsp; Winter 2022
 - STATS 406 - Computational Methods in Statistics and Data Science &nbsp; || &nbsp; Fall 2021
 
 
