@@ -13,5 +13,5 @@ design:
 ---
 <br>
 
-Introduction to Statistical Computing (using the R)
+Introduction to Statistical Computing (using R)
 
