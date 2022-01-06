@@ -23,9 +23,9 @@ design:
   # Use a 1-column layout
   columns: "2" 
   
-  background:
-    color: 'white'
-    text_color_light: false
+#  background:
+#    color: 'white'
+#    text_color_light: false
 ---
 
 **GSI:** Benjamin Osafo Agyare (bagyare@umich.edu)\
