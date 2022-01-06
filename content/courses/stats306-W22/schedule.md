@@ -17,6 +17,7 @@ subtitle:
 
 # content
 
+authors: []
 
 # Section design
 design:
