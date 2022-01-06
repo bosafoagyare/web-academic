@@ -24,7 +24,7 @@ design:
   columns: "2" 
   
   background:
-    color: 'white'
+    color: '#f7f7f7'
     text_color_light: false
 ---
 
