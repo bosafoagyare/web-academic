@@ -24,4 +24,7 @@ design:
   columns: "2" 
 ---
 
-Hi
+**GSI:** Ryan Duncan (ryandun@umich.edu)\
+**Lab day/time:** Tuesdays, 10-11:30 am - [Zoom link](https://umich.zoom.us/j/95251950841?pwd=QnhYa2hhMjY5NFZNbjFCMFFqS1JXZz09)\
+**Office hours day/time:** Tuesdays, 7-8:30 pm; Thursdays, 9-10:30 am - [Zoom link](https://umich.zoom.us/j/97444539797?pwd=ZWJ5QVFzY2k1L2JvbTBBK1NWVS9rQT09)
+
