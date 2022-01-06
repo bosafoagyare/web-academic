@@ -26,7 +26,9 @@ design:
 
 Date | Lab | Solution|cd
 --- | --- | ---|---
-**January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> | <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a> |- [x]
+**January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> | <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a> |<form action="/action_page.php">
+  <input type="checkbox" id="" name="" value="">
+</form>
 **February 2** | <a href="stats306_lab2_empty.ipynb">Download Lab 2</a> | <a href="stats306_lab2_solution.ipynb">Download Lab 2 Solution</a> |- [x]
 **February 9** | <a href="stats306_lab3_empty.ipynb">Download Lab 3</a> | <a href="stats306_lab3_solution.ipynb">Download Lab 3 Solution</a> |- [x]
 **February 16** | <a href="stats306_lab4_empty.ipynb">Download Lab 4</a> | <a href="stats306_lab4_solution.ipynb">Download Lab 4 Solution</a> |- [x]
