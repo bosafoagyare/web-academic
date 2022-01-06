@@ -24,7 +24,7 @@ design:
   columns: "2" 
 ---
 
-Date | Lab | Solution|
+Date | Lab | Solution
 --- | --- | ---|---
 - [x] **January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> | <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a> 
 - [ ]**February 2** | <a href="stats306_lab2_empty.ipynb">Download Lab 2</a> | <a href="stats306_lab2_solution.ipynb">Download Lab 2 Solution</a> |
