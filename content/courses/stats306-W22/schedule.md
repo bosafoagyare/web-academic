@@ -22,6 +22,10 @@ subtitle:
 design:
   # Use a 1-column layout
   columns: "2" 
+  
+  background:
+    color: 'white'
+    text_color_light: false
 ---
 
 Date | Lab | Solution
