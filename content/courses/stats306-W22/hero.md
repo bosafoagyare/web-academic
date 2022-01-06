@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: STATS 306 Winter 2022
-hero_media: tds.svg
+hero_media: tdv_stack.svg
 design:
   background:
     gradient_angle: 0
