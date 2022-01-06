@@ -8,6 +8,14 @@ main:
     url: '/' 
 # '#about'
     weight: 10
+  - name: Courses
+    url: '/courses/stats306-W22'
+    weight: 20
+#    identifier: courses
+#  - name: Data science
+#    url: '/course/example/'
+#    weight: 10
+#    parent: courses        
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
