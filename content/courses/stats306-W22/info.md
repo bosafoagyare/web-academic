@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 # Section title
 title: GSI Information
