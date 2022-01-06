@@ -19,9 +19,9 @@ subtitle:
 
 
 # Section design
-#design:
+design:
   # Use a 1-column layout
- # columns: "2" 
+  columns: "1" 
 ---
 
 
