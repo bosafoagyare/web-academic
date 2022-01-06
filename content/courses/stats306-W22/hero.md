@@ -3,6 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: STATS 306 Winter 2022
+subtitle:Introduction to Statistical Computing (using the R programming language)
 hero_media: student.svg
 design:
   background:
