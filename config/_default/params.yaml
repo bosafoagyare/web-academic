@@ -140,7 +140,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: 
+  provider: wowchemy 
   algolia:
     app_id: ''
     api_key: ''
