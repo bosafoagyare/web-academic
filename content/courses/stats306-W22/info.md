@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 # Section title
-title: GSI Information
+title: GSI & Lab Information
 
 # Section subtitle
 subtitle:
