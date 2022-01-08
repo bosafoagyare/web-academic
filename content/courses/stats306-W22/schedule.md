@@ -29,16 +29,17 @@ design:
 
 Date | Lab | Solution
 --- | --- | ---
-**January 26** | <a href="https://ryandun.github.io/stats306lab3/stats306_lab1_empty.ipynb">Download Lab 1</a> | <!--  <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a> -->
-**February 2** | | 
-**February 9** | | 
-**February 16** | |
-**February 23** | <!-- No lab - Well-being break --> | 
-**March 2** | |
-**March 9** | <!-- No lab - Midterm week --> | 
-**March 16** | |
-**March 23** | |
-**March 30** | |
-**April 6** | |
-**April 13** | |
+**January 10** | <a href="#">Download Lab 1</a> | Download Lab 1 Solution
+ | |
+ | | 
+| | 
+| |
+| <!-- No lab - Well-being break --> | 
+ | |
+ | <!-- No lab - Midterm week --> | 
+| |
+ | |
+| |
+ | |
+ | |
 
