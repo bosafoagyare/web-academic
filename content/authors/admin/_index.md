@@ -71,6 +71,11 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Teachers
 ---
 
 I am a first-year PhD student in the Statistics program at The University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in Statistics & Data Science at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from Kwame Nkrumah University of Science and Technology.   
