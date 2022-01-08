@@ -9,7 +9,7 @@ main:
 # '#about'
     weight: 10
   - name: Courses
-    url: '/courses/stats306-W22'
+    url: '/courses/my-classes'
     weight: 20
 #    identifier: courses
 #  - name: Data science
