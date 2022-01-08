@@ -27,19 +27,7 @@ design:
  #   text_color_light: false
 ---
 
-Date | Lab | Solution
---- | --- | ---
-**January 10** | <a href="#">Download Lab 1</a> | Download Lab 1 Solution
- | |
- | | 
-| | 
-| |
-| <!-- No lab - Well-being break --> | 
- | |
- | <!-- No lab - Midterm week --> | 
-| |
- | |
-| |
- | |
- | |
-
+Date | | Lab | | Solution
+--- | --- | --- | --- | ---
+**January 10** | | <a href="#">Download Lab 1</a> | | Download Lab 1 Solution
+ 
