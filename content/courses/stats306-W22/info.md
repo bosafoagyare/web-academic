@@ -29,6 +29,6 @@ design:
 ---
 
 **GSI:** Benjamin Osafo Agyare (bagyare@umich.edu)\
-**Lab day/time:** TBD <!-- Tuesdays, 10-11:30 am - [Zoom link](https://umich.zoom.us/j/95251950841?pwd=QnhYa2hhMjY5NFZNbjFCMFFqS1JXZz09)\ -->  
-**Office hours day/time:** TBD <!-- Tuesdays, 7-8:30 pm; Thursdays, 9-10:30 am - [Zoom link](https://umich.zoom.us/j/97444539797?pwd=ZWJ5QVFzY2k1L2JvbTBBK1NWVS9rQT09) -->
+**Lab day/time/location:** Mondays, 4-5:30 pm, B760 EH (In-Person) <!-- Tuesdays, 10-11:30 am - [Zoom link](https://umich.zoom.us/j/95251950841?pwd=QnhYa2hhMjY5NFZNbjFCMFFqS1JXZz09)\ -->  
+**Office hours day/time/location:** Tuesdays, 11:30 am-1 pm, Office TBD <!-- Tuesdays, 7-8:30 pm; Thursdays, 9-10:30 am - [Zoom link](https://umich.zoom.us/j/97444539797?pwd=ZWJ5QVFzY2k1L2JvbTBBK1NWVS9rQT09) -->
 
