@@ -24,4 +24,4 @@ design:
   columns: "1" 
 ---
 
-- STATS 306 - Introduction to Statistical Computing (∼40 students) &nbsp; || &nbsp; Winter 2022   
+- [STATS 306 - Introduction to Statistical Computing &nbsp; || &nbsp; Winter 2022]({{< ref "stats306-W22/index.md" >}})   
