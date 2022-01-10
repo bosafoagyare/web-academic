@@ -33,7 +33,7 @@ design:
 - **Office hours day/time/location:** Tuesdays & Thursdays, 11:30 am - 1pm || Office TBD <!-- Tuesdays, 7-8:30 pm; Thursdays, 9-10:30 am - [Zoom link](https://umich.zoom.us/j/97444539797?pwd=ZWJ5QVFzY2k1L2JvbTBBK1NWVS9rQT09) -->    
 <br />  
 - **Slack:** The slack workspace for the lab is at <!-- um-wn22-stats306.slack.com -->  [https://um-wn22-stats306.slack.com/](https://um-wn22-stats306.slack.com/) (requires UM login). Please feel free to ask any question related to the lab on the _lab002_ channel for faster response, as this is our little sub-community.
-- **Colab:** All lab notebooks can be accessed in Google Colab by clicking here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/)
+- **Colab:** All lab notebooks can be accessed in Google Colab by clicking here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bosafoagyare/web-academic/blob/master/)
 <br />  
 - **Official course page:** https://ambujtewari.github.io/stats306-winter2022/  
 - **Textbook:** https://r4ds.had.co.nz/
