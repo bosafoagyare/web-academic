@@ -35,6 +35,6 @@ design:
 
 - **Slack:** The slack workspace for the lab is at <!-- um-wn22-stats306.slack.com --> (requires UM login)
 - **Colab:** All lab notebooks can be accessed in Google Colab by clicking here:    
-<br/>
+<br/>  
 - **Official course page:** https://ambujtewari.github.io/stats306-winter2022/  
 - **Textbook:** https://r4ds.had.co.nz/
