@@ -28,6 +28,6 @@ design:
 ---
 
 Date | | | | | | | | | Lab | | | |Resources | | | | | Solution
-:---: | --- | --- | --- | --- | ---| --- | --- |  --- |  :---: |  --- |  --- |  --- |  :---: | --- | --- | --- | --- | :---:
-**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | <ul><li>[base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) </li><li>[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)</li></ul>| | | | | Download Lab 1 Solution
+:--- | --- | --- | --- | --- | ---| --- | --- |  --- |  :--- |  --- |  --- |  --- |  :--- | --- | --- | --- | --- | :---
+**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | <ul><li>[Base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) </li><li>[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)</li></ul>| | | | | Download Lab 1 Solution
  
