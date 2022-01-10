@@ -27,7 +27,8 @@ design:
  #   text_color_light: false
 ---
 
-Date | | | | | | | | | Lab | | | | | | | | | Solution
-:---: | --- | --- | --- | --- | ---| --- | --- |  --- |  :---: |  --- |  --- |  --- |  --- | --- | --- | --- | --- | :---:
-**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | | | | | | Download Lab 1 Solution
+Date | | | | | | | | | Lab | | | |Resources | | | | | Solution
+:---: | --- | --- | --- | --- | ---| --- | --- |  --- |  :---: |  --- |  --- |  --- |  :---: | --- | --- | --- | --- | :---:
+**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | - Base R Cheat Sheet
+- Grammar of Graphics Cheat Sheet| | | | | Download Lab 1 Solution
  
