@@ -29,5 +29,6 @@ design:
 
 Date | | | | | | | | | Lab | | | |Resources | | | | | Solution
 :---: | --- | --- | --- | --- | ---| --- | --- |  --- |  :---: |  --- |  --- |  --- |  :---: | --- | --- | --- | --- | :---:
-**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | [base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)   [Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)| | | | | Download Lab 1 Solution
+**January 10** | | | | | | | | | <a href="#">Download Lab 1</a> | | | | [base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) 
+[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)| | | | | Download Lab 1 Solution
  
