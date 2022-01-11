@@ -29,8 +29,8 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  title: IABA Foundation Scholar
   organization_logo: ''
+  title: IABA Foundation Scholar
   url: ""
   
 - certificate_url: ''
@@ -39,8 +39,8 @@ item:
   description: ""
   organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
-  title: 1st Place, Capstone Project Competition in Bayesian Statistics
   organization_logo: unr
+  title: 1st Place, Capstone Project Competition in Bayesian Statistics
   url: ""
   
 - certificate_url: ''
@@ -49,8 +49,8 @@ item:
   description: ""
   organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
-  title: 1st Place, Capstone Project Competition in Statistical Computing
   organization_logo: unr
+  title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
 
 
@@ -60,7 +60,8 @@ item:
   date_start: "2017-01-01"
   description: ""
   organization: Actuaial Science Students' Association, KNUST
-  organization_url: 
+  organization_url: ""
+  organization_logo: ''
   title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
   url: ""
   
@@ -69,7 +70,8 @@ item:
   date_start: "2013-09-01"
   description: "Best student award for the West African Senior School Certificate Examination (Out of over 1,000 candidates at Mpraeso High School in 2013)"
   organization: Mpraeso High School (WASSCE 2013 sitting)
-  organization_url: 
+  organization_url: ""
+  organization_logo: ''
   title: Overall Best Student
   url: ""
 
