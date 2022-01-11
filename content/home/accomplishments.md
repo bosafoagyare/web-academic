@@ -48,6 +48,7 @@ item:
   organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
   title: 1st Place, Capstone Project Competition in Statistical Computing
+  company_logo: unr
   url: ""
 
 
