@@ -49,7 +49,7 @@ experience:
   - title: Predictive Modeling Intern
     company: Employers Insurance Group
     company_url: https://www.employers.com/
-    company_logo: ''
+    company_logo: eig
     location: Nevada
     date_start: '2020-05-26'
     date_end: '2020-08-14'
