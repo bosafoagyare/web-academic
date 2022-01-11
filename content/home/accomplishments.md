@@ -61,7 +61,7 @@ item:
   description: ""
   organization: Actuaial Science Students' Association, KNUST
   organization_url: ""
-  organization_logo: ''
+  organization_logo: ics
   title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
   url: ""
   
