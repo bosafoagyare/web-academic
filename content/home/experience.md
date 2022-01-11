@@ -34,7 +34,7 @@ experience:
   - title: Summer Actuarial Intern
     company: CAS Student Central
     company_url: https://www.casact.org/
-    company_logo: ''
+    company_logo: cas
     location: ''
     date_start: '2021-06-28'
     date_end: '2021-08-14'
