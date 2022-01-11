@@ -62,7 +62,7 @@ experience:
   - title: Math Instructor
     company: International Community School
     company_url: https://icsghana.org/
-    company_logo: ''
+    company_logo: ics
     location: Ghana
     date_start: '2018-08-03'
     date_end: '2019-06-14'
