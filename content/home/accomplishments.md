@@ -30,7 +30,7 @@ item:
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
   title: IABA Foundation Scholar
-  organization_logo: iaba
+  organization_logo: ''
   url: ""
   
 - certificate_url: ''
