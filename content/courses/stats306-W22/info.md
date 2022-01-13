@@ -27,7 +27,6 @@ design:
 #    color: 'white'
 #    text_color_light: false
 
-# content/courses/stats306-W22/Lab-Notes/
 ---
 
 - **GSI:** Benjamin Osafo Agyare (bagyare@umich.edu) _please include **STATS 306** in the subject line if you need to email me._
