@@ -30,6 +30,6 @@ design:
 
 Date | | | |  Lab | | | |Resources | | | | | Solution
 :--- | --- | --- | --- |  :--- |  --- |  --- |  --- |  :--- | --- | --- | --- | --- | :---
-**January 10** | | | | <a href="https://github.com/bosafoagyare/web-academic/content/courses/stats306-W22/Lab-Notes/lab01.ipynb">Download Lab 1</a> | | | | <ul><li>[Base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) </li><li>[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)</li></ul>| | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab01_solution.ipynb" target="_blank" rel="noopener noreferrer">Download Lab 1 Solution</a>
+**January 10** | | | | <a href="https://github.com/bosafoagyare/web-academic/content/courses/stats306-W22/Lab-Notes/lab01.ipynb" download>Download Lab 1</a> | | | | <ul><li>[Base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) </li><li>[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)</li></ul>| | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab01_solution.ipynb" target="_blank" rel="noopener noreferrer" download>Download Lab 1 Solution</a>
 **January 17** | | | | Martin Luther King Jr. Day | | | | | | | |  |
  
