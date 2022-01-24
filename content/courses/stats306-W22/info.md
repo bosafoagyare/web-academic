@@ -39,3 +39,4 @@ design:
 - **Official course page:** https://ambujtewari.github.io/stats306-winter2022/  
 - **Textbook:** https://r4ds.had.co.nz/
 - **R Style Guide:** https://style.tidyverse.org/ 
+- **GGplot Book:** https://ggplot2-book.org/ 
