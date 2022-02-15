@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+# weight: 60
 
 # Section title
 title: Lab Schedule and Materials
