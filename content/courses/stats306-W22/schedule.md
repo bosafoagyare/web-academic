@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Section title
-title: GSI & Lab Information
+title: Lab Schedule and Materials
 
 # Section subtitle
 subtitle:
