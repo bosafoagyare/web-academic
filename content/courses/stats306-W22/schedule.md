@@ -7,25 +7,26 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 40
 
 # Section title
-title: Lab Schedule and Materials
+title: GSI & Lab Information
 
 # Section subtitle
 subtitle:
 
 # content
 
+
 # Section design
 design:
   # Use a 1-column layout
-  columns: "2" 
-  
- # background:
- #   color: '#f7f7f7'
- #   text_color_light: false
- # 
+  columns: "2"
+
+#  background:
+#    color: 'white'
+#    text_color_light: false
+
 ---
 
 
