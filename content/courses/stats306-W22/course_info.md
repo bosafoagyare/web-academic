@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 6
 
 # Section title
 title: GSI & Lab Information
