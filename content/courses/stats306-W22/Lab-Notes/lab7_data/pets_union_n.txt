@@ -1,41 +1,41 @@
-name	age	weight	class	century	year
-Rex	15	3.1	other	20	03
-Izzy	10	14.8	cat	20	03
-Bruno	9	7.7	dog	19	99
-Chase	11	16.6	other	20	00
-Benny	8	12	dog	20	07
-Zoey	3	6.6	other	19	98
-Shelby	5	15.9	cat	20	04
-Phoebe	13	6.8	dog	20	00
-Gucci	7	2.5	cat	20	06
-Buddy	11	4	dog	20	07
-Sydney	13	14.8	dog	19	99
-Roxie	6	18	cat	19	99
-Gus	12	14.9	dog	20	06
-Romeo	13	15.1	other	20	02
-Daisy	10	11.1	dog	20	05
-Lexi	5	7.1	cat	20	00
-Gunner	8	13.9	cat	20	01
-Ella	4	17	other	20	02
-Roxy	13	11.1	dog	19	99
-Mia	14	8.2	cat	20	07
-Minnie	9	8.6	dog	20	03
-Yoda	11	12	other	20	02
-Koda	4	6.9	cat	20	00
-Payton	13	3.7	other	20	07
-Missy	10	6.4	other	20	02
-Rosie	9	6.4	cat	19	98
-Trixie	2	17.1	other	20	00
-Dakota	15	15.2	cat	20	01
-Maya	8	8.4	other	20	04
-Jake	15	7.5	cat	20	03
-Murphy	15	4.7	dog	20	01
-Cisco	11	15.5	other	20	04
-Harley	10	17.6	cat	20	05
-Harry	3	14.5	dog	20	04
-Mercedes	14	15.2	dog	19	98
-Cookie	12	2.3	dog	20	03
-Lulu	1	5.6	cat	19	99
-Hannah	2	16.1	cat	20	04
-Marley	3	13.9	dog	20	07
-Maggie	10	9.4	other	19	99
+name	age	weight	class	year_acquired
+Rex	15	3.1	other	2003
+Izzy	10	14.8	cat	2003
+Bruno	9	7.7	dog	1999
+Chase	11	16.6	other	2000
+Benny	8	12	dog	2007
+Zoey	3	6.6	other	1998
+Shelby	5	15.9	cat	2004
+Phoebe	13	6.8	dog	2000
+Gucci	7	2.5	cat	2006
+Buddy	11	4	dog	2007
+Sydney	13	14.8	dog	1999
+Roxie	6	18	cat	1999
+Gus	12	14.9	dog	2006
+Romeo	13	15.1	other	2002
+Daisy	10	11.1	dog	2005
+Lexi	5	7.1	cat	2000
+Gunner	8	13.9	cat	2001
+Ella	4	17	other	2002
+Roxy	13	11.1	dog	1999
+Mia	14	8.2	cat	2007
+Minnie	9	8.6	dog	2003
+Yoda	11	12	other	2002
+Koda	4	6.9	cat	2000
+Payton	13	3.7	other	2007
+Missy	10	6.4	other	2002
+Rosie	9	6.4	cat	1998
+Trixie	2	17.1	other	2000
+Dakota	15	15.2	cat	2001
+Maya	8	8.4	other	2004
+Jake	15	7.5	cat	2003
+Murphy	15	4.7	dog	2001
+Cisco	11	15.5	other	2004
+Harley	10	17.6	cat	2005
+Harry	3	14.5	dog	2004
+Mercedes	14	15.2	dog	1998
+Cookie	12	2.3	dog	2003
+Lulu	1	5.6	cat	1999
+Hannah	2	16.1	cat	2004
+Marley	3	13.9	dog	2007
+Maggie	10	9.4	other	1999
