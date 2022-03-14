@@ -40,9 +40,11 @@ design:
 - **R Style Guide:** https://style.tidyverse.org/   
 - **GGplot Book:** https://ggplot2-book.org/
 
-<br>
----
-<br>
+<br>   
+
+---   
+
+<br>   
 
 Date | | | |  Lab | | | |Resources | | | | | Solution
 :--- | --- | --- | --- |  :--- |  --- |  --- |  --- |  :--- | --- | --- | --- | --- | :---
