@@ -40,6 +40,7 @@ design:
 - **R Style Guide:** https://style.tidyverse.org/   
 - **GGplot Book:** https://ggplot2-book.org/
 
+*[Special thanks to all resources used for lab, including packages, some content from DataCamp and datasets, as well as all other uncitable resources*
 <br>   
 
 ---   
@@ -55,4 +56,4 @@ Date | | | |  Lab | | | |Resources | | | | | Solution
 **February 07** | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab05.ipynb" download> Download Lab 5 </a> | | | | | | | | |<a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab05_solution.ipynb" target="_blank" rel="noopener noreferrer" download>Download Lab 5 Solution</a>
 **February 14** | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab06.ipynb" download> Download Lab 6 </a>| | | |  <ul><li>[Data Importation Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf) </li><li> [Tibbles Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/tidyr.pdf)</li></ul>| | | | |<a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab06_solution.ipynb" target="_blank" rel="noopener noreferrer" download> Download Lab 6 Solution</a> 
 **February 21** | | | | MIDTERM NO CLASS | | | | | | | |  |
-**March 14** | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab07.ipynb" download> Download Lab 7 </a>| | | |  <ul><li> [Tidy Data Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/tidyr.pdf)</li></ul>| | | | |<!-- <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab07_solution.ipynb" target="_blank" rel="noopener noreferrer" download>  Download Lab 7 Solution </a>--> 
+**March 14** | | | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab07.ipynb" download> Download Lab 7 </a>| | | |  <ul><li> [Tidy Data Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/tidyr.pdf)</li></ul>| | | | |<a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab07_solution.ipynb" target="_blank" rel="noopener noreferrer" download>  Download Lab 7 Solution </a> 
