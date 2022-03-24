@@ -39,6 +39,7 @@ design:
 - **Textbook:** https://r4ds.had.co.nz/
 - **R Style Guide:** https://style.tidyverse.org/   
 - **GGplot Book:** https://ggplot2-book.org/
+- **Data Visualization book**** https://socviz.co/
 
 *[Special thanks to all resources used for lab, including packages, some content from DataCamp and datasets, as well as all other uncitable resources*
 <br>   
