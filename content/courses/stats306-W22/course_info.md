@@ -41,7 +41,7 @@ design:
 - **GGplot Book:** https://ggplot2-book.org/
 - **Data Visualization book**** https://socviz.co/
 
-*[Special thanks to all resources used for lab, including packages, some content from DataCamp and datasets, as well as all other uncitable resources*
+*[Special thanks to all resources used for the labs, including packages, some content from DataCamp and datasets, materials from past GSIs as well as all other uncitable resources]*
 <br>   
 
 ---   
