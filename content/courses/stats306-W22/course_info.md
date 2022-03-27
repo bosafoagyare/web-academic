@@ -48,7 +48,7 @@ design:
 
 <br>   
 
-Date |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp Lab | Resources | Solution
+Date |  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp Lab | Resources | Solution
 :--- |  :--- | :--- | :---
 **January 10** |  <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab01.ipynb" download>Lab 1: Introduction and Data Visualization 1</a>  | <ul><li>[Base R cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf) </li><li>[Grammar of Graphics Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)</li> <li>[The R Graph Gallery](https://www.r-graph-gallery.com/)</li></ul>| <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab01_solution.ipynb" target="_blank" rel="noopener noreferrer" download>Download Lab 1 Solution</a>
 **January 17** |  <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab02.ipynb" download>Lab 2: Data Visualization 2 (Aesthetics, Facets, Geometric Objects)</a>   | | <a href="https://github.com/bosafoagyare/web-academic/blob/master/content/courses/stats306-W22/Lab-Notes/lab02_solution.ipynb" download>Download Lab 2 Solution</a>
