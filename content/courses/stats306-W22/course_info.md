@@ -42,7 +42,7 @@ Other Resources:
 - **R Cookbook** https://rc2e.com/
 - **R Style Guide:** https://style.tidyverse.org/   
 - **GGplot Book:** https://ggplot2-book.org/
-- **Data Visualization book**** https://socviz.co/
+- **Data Visualization Book** https://socviz.co/
 - **R Charts** https://r-charts.com/
 - **R Graph Gallery** https://www.r-graph-gallery.com
 
