@@ -37,9 +37,14 @@ design:
 <br />  
 - **Official course page:** https://ambujtewari.github.io/stats306-winter2022/  
 - **Textbook:** https://r4ds.had.co.nz/
+
+Other Resources:
+- **R Cookbook** https://rc2e.com/
 - **R Style Guide:** https://style.tidyverse.org/   
 - **GGplot Book:** https://ggplot2-book.org/
 - **Data Visualization book**** https://socviz.co/
+- **R Charts** https://r-charts.com/
+- **R Graph Gallery** https://www.r-graph-gallery.com
 
 *[Special thanks to all resources used for the labs, including packages, some content from DataCamp and datasets, materials from past GSIs as well as all other uncitable resources]*
 <br>   
