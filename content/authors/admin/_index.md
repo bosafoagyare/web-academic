@@ -18,10 +18,10 @@ bio: PhD Statistics student.
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning
-- Computational Statistics
 - Statistical Modeling
-- Bayesian Analysis
+- Longitunal Data Analysis
+- Quantile and Expectile Regression
+- Statistical Machine Learning
 
 # Education to show in About widget
 education:
