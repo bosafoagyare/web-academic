@@ -22,6 +22,7 @@ interests:
 - Longitunal Data Analysis
 - Quantile and Expectile Regression
 - Statistical Machine Learning
+- Computational Statistics
 
 # Education to show in About widget
 education:
