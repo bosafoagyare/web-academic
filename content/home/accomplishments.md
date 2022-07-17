@@ -40,7 +40,7 @@ item:
   organization: Department of Statistics,  University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
   organization_logo: unr
-  title: 1st Place, Capstone Project Competition in Bayesian Statistics
+  title: 1st Place, Capstone Project Competition in Statistical Learning
   url: ""
   
 - certificate_url: ''
