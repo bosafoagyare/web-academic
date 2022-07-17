@@ -35,6 +35,16 @@ item:
   
 - certificate_url: ''
   date_end: ""
+  date_start: "2022-04-18"
+  description: ""
+  organization: Department of Statistics,  University of Michigan, Ann Arbor
+  organization_url: https://lsa.umich.edu/stats
+  organization_logo: unr
+  title: 1st Place, Capstone Project Competition in Bayesian Statistics
+  url: ""
+  
+- certificate_url: ''
+  date_end: ""
   date_start: "2020-05-18"
   description: ""
   organization: Department of Mathematics & Statistics,  University of Nevada, Reno
