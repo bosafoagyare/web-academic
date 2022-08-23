@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: STATS 306 || Winter 2022
+title: STATS 306 || Fall 2023
 hero_media: tdv_stack.svg
 design:
   background:
