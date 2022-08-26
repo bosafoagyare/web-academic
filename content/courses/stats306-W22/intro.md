@@ -4,7 +4,7 @@ headless: true
 weight: 1
 title: STATS 306 || Winter 2022
 hero_media: tdv_stack.svg
-# design:
+design:
 #  background:
 #    gradient_angle: 0
 #    gradient_start: 'rgb(224,223,255)'
@@ -12,7 +12,7 @@ hero_media: tdv_stack.svg
 #    text_color_light: false   
 
 
-background:
+  background:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
     gradient_angle: 180
