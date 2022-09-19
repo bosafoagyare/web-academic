@@ -81,6 +81,6 @@ user_groups:
 
 I am a second-year PhD student in the Statistics program at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in Statistics & Data Science at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from Kwame Nkrumah University of Science and Technology.   
 
-This Summer, I am working under [Prof. Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html) on Generalized Expectile Estimating Equations (GEEE) applied to Longitudinal Genetics Data.
+I am working under the supervision of [Prof. Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html) on Generalized Expectile Estimating Equations (GEEE) applied to Longitudinal Genetics Data.
 
 When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
