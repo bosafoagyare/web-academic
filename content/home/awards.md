@@ -4,7 +4,7 @@
 widget: awards
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
