@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: awards
 
 # This file represents a page section.
 headless: true
@@ -39,7 +39,7 @@ item:
   description: ""
   organization: Department of Statistics,  University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
-  organization_logo: unr
+  organization_logo: ''
   title: 1st Place, Capstone Project Competition in Statistical Learning
   url: ""
   
