@@ -31,7 +31,7 @@ item:
   date_start: "2021-01-25"
   description: ""
   organization: Coursera
-  organization_url: https://www.coursera.org
+  organization_url: ''
   title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
