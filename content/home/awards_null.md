@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -26,12 +26,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ''
+- certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-01-25"
   description: ""
   organization: Coursera
-  organization_url: ''
+  organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
