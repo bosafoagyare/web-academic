@@ -72,7 +72,7 @@ item:
   date_end: ""
   date_start: "2017-01-01"
   description: ""
-  organization: Actuaial Science Students' Association, KNUST
+  organization: Actuarial Science Students' Association, KNUST
   organization_url: ""
   organization_logo: ''
   title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
