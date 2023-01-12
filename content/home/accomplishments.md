@@ -36,7 +36,7 @@ item:
   title: IABA Foundation Scholar
   url: ""
   
-- certificate_url: https://umich.edu/
+- certificate_url: ''
   date_end: ""
   date_start: "2022-04-18"
   description: ""
@@ -56,7 +56,7 @@ item:
   title: 1st Place, Capstone Project Competition in Bayesian Statistics
   url: ""
   
-- certificate_url: https://www.unr.edu/math
+- certificate_url: ''
   date_end: ""
   date_start: "2019-12-11"
   description: ""
