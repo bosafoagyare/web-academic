@@ -1,10 +1,10 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: awards
+widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
