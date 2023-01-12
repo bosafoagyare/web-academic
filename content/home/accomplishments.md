@@ -50,7 +50,7 @@ item:
   date_end: ""
   date_start: "2020-05-18"
   description: ""
-  organization: Department of Mathematics & Statistics,  University of Nevada, Reno
+  organization: Department of Mathematics & Statistics, University of Nevada, Reno
   organization_url: https://www.unr.edu/math
   company_logo: unr
   title: 1st Place, Capstone Project Competition in Bayesian Statistics
@@ -60,7 +60,7 @@ item:
   date_end: ""
   date_start: "2019-12-11"
   description: ""
-  organization: Department of Mathematics & Statistics,  University of Nevada, Reno
+  organization: Department of Mathematics & Statistics, University of Nevada, Reno
   organization_url: https://www.unr.edu/math
   organization_logo: unr
   title: 1st Place, Capstone Project Competition in Statistical Computing
