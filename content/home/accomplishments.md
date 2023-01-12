@@ -40,7 +40,7 @@ item:
   date_end: ""
   date_start: "2022-04-18"
   description: ""
-  organization: Department of Statistics,  University of Michigan, Ann Arbor
+  organization: Department of Statistics, University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
   organization_logo: ''
   title: 1st Place, Capstone Project Competition in Statistical Learning
