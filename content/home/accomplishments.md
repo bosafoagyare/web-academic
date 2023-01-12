@@ -52,7 +52,7 @@ item:
   description: ""
   organization: Department of Mathematics & Statistics,  University of Nevada, Reno
   organization_url: https://www.unr.edu/math
-  organization_logo: unr
+  company_logo: unr
   title: 1st Place, Capstone Project Competition in Bayesian Statistics
   url: ""
   
