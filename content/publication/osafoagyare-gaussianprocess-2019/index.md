@@ -1,13 +1,13 @@
 ---
-title: "A Distributed Optimization Package for R"
+title: "Boston Crime Data Analysis: Monthly Prediction with Autoregressive Integrated Moving Average and Gaussian Process Regression"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Eduardo Ochoa
-- Victor Verma
+- Ilaria Vinci
+- Francesco Zuniga
 
 draft: false
 
@@ -16,11 +16,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-28T00:00:00Z"
+date: "2019-12-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-28T00:00:00Z"
+publishDate: "2019-12-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,14 +33,9 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: In distributed optimization, there is a global objective function that is expressed as a sum
-  of local objective functions, each of which is assigned to an agent. An example of an agent is a
-  node in a computer network. Each agent attempts to minimize its local objective function using
-  information on its function and information from the other agents. The aim of our project was
-  to create an R package that implements two distributed optimization algorithms. We describe
-  the algorithms and our package, which implements one of the algorithms. We also discuss the
-  results of experiments in which we used our code to solve distributed versions of statistical
-  problems.
+abstract: We compare predictions from an Autoregressive (AR) Model and a Gaussian Process Regression (GPR) Model based on Exploratory Data Analysis (EDA) to establish which approach gives the best result in terms of minimum error. The data set analyzed is about the daily crimes in Boston, it contains records from the new
+crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015 to September 2018: 319,073 observations are recorded of 17 variables.
+
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -57,7 +52,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/bosafoagyare/DistGD'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Three-node example'
+  caption: 'Gaussian Process Regression with three kernels'
   focal_point: Smart
   placement: 1
   preview_only: false
