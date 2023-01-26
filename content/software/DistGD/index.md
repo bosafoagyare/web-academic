@@ -13,8 +13,9 @@ type: project
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Three-node example
   focal_point: Smart
+  
 
 links:
 - icon: github
@@ -34,4 +35,5 @@ url_video: ""
 # slides: example
 ---
 
+The goal of DistGD (Distributed Gradient Descent) is to efficiently optimize a global objective function expressed as a sum of a list of local objective functions belonging to different agents situated in a network via a cluster architecture like Spark. You supply a list of local objective functions, weights of the connections between the agents, initialize a vector initial values, and it takes care of the details, returning the optimal values. See [the github page](https://github.com/bosafoagyare/DistGD#installation) for more a vignette. 
 
