@@ -1,5 +1,5 @@
 ---
-title: "A Distributed Optimization Package for R"
+title: "Prediction of Metastasis Event using Hierarchical Classification with Elastic Nets"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
