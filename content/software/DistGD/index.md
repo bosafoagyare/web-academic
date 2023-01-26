@@ -17,10 +17,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: bosafoagyare/DistGD 
+  url: https://github.com/bosafoagyare/DistGD
 url_code: ""
 url_pdf: ""
 url_slides: ""
