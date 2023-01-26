@@ -19,9 +19,12 @@ main:
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
+  - name: Projects
+    url: '#reports'
+    weight: 30
+  - name: Software
+    url: '#software'
+    weight: 40
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
