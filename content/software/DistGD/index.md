@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: DistGD
+summary: A Distributed Optimization Package in R using Gradient Descent.
 tags:
   - R
 # date: "2016-04-27T00:00:00Z"
