@@ -6,8 +6,8 @@ title: "A Distributed Optimization Package for R"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Eduardo Ochoa
-- Victor Verma
+- Alec Chu
+- Blessing I. Oloyede
 
 draft: false
 
@@ -16,11 +16,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-28T00:00:00Z"
+date: "2022-12-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-28T00:00:00Z"
+publishDate: "2022-12-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,14 +33,13 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: In distributed optimization, there is a global objective function that is expressed as a sum
-  of local objective functions, each of which is assigned to an agent. An example of an agent is a
-  node in a computer network. Each agent attempts to minimize its local objective function using
-  information on its function and information from the other agents. The aim of our project was
-  to create an R package that implements two distributed optimization algorithms. We describe
-  the algorithms and our package, which implements one of the algorithms. We also discuss the
-  results of experiments in which we used our code to solve distributed versions of statistical
-  problems.
+abstract: Metastasis is major contributor towards cancer-related mortality and can be difficult to detect
+during early stages. The ability to identify cancers that may have already metastasized can help increase
+patient survival. In this study, we utilize publicly available expression profile datasets of cancers from
+primary sites with or without distal metastasis. We train an elastic net models to predict the origin of
+primary cancer tissue and whether the primary cancer has metastasized or not. Using the elastic-net for hierarchical classification, we were able to predict the origin tissue at an accuracy of 97% and whether the cancer has already metastasized at an accuracy of 90%. When
+examining the top influential genes in the model we find that many mitochondrial genes were negatively
+correlated with metastasis.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -57,7 +56,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/bosafoagyare/DistGD'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
