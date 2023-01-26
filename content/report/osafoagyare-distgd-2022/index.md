@@ -32,14 +32,7 @@ publication_types: ["4"]
 publication: ''
 publication_short: ''
 
-abstract: In distributed optimization, there is a global objective function that is expressed as a sum
-  of local objective functions, each of which is assigned to an agent. An example of an agent is a
-  node in a computer network. Each agent attempts to minimize its local objective function using
-  information on its function and information from the other agents. The aim of our project was
-  to create an R package that implements two distributed optimization algorithms. We describe
-  the algorithms and our package, which implements one of the algorithms. We also discuss the
-  results of experiments in which we used our code to solve distributed versions of statistical
-  problems.
+abstract: In distributed optimization, there is a global objective function that is expressed as a sum of local objective functions, each of which is assigned to an agent. An example of an agent is a node in a computer network. Each agent attempts to minimize its local objective function using information on its function and information from the other agents. The aim of our project was to create an R package that implements two distributed optimization algorithms. We describe the algorithms and our package, which implements one of the algorithms. We also discuss the results of experiments in which we used our code to solve distributed versions of statistical problems.
 
 # Summary. An optional shortened abstract.
 summary: ''
