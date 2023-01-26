@@ -48,12 +48,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'osafoagyare-coxph-2017.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://bosafoagyare.netlify.app/publication/osafoagyare-coxph-2017/osafoagyare-coxph-2017-slides.pdf'
+url_slides: 'osafoagyare-coxph-2017-slides.pdf'
 url_source: ''
 url_video: ''
 
