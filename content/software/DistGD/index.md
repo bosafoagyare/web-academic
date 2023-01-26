@@ -1,6 +1,7 @@
 ---
 title: DistGD
 summary: A Distributed Optimization Package in R using Gradient Descent.
+featured: true
 tags:
   - R
 # date: "2016-04-27T00:00:00Z"
