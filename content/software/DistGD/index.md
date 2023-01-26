@@ -5,7 +5,7 @@ featured: true
 tags:
   - R
  
-type: page
+type: project
 
 # date: "2016-04-27T00:00:00Z"
 
