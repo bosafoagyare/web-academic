@@ -1,13 +1,13 @@
 ---
-title: "A Distributed Optimization Package for R"
+title: "A Bayesian Hierarchical Model for US Election Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Eduardo Ochoa
-- Victor Verma
+- Connor Dayton
+- Jaucelyn Canfield
 
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-28T00:00:00Z"
+date: "2020-04-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,14 +33,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: In distributed optimization, there is a global objective function that is expressed as a sum
-  of local objective functions, each of which is assigned to an agent. An example of an agent is a
-  node in a computer network. Each agent attempts to minimize its local objective function using
-  information on its function and information from the other agents. The aim of our project was
-  to create an R package that implements two distributed optimization algorithms. We describe
-  the algorithms and our package, which implements one of the algorithms. We also discuss the
-  results of experiments in which we used our code to solve distributed versions of statistical
-  problems.
+abstract: We compare federal election results for each state versus the USA in every second year from 1992 to 2016 to model partisan lean of each state and its dependence on the nationwide popular vote. For each state, we model both its current partisan lean and its rate of change, as well as sensitivity of state results with respect to the nationwide popular vote, using a Bayesian Hierarchical Model. We then apply this model to predict and compare results with the actual values for the 2018 election.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -57,7 +50,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/bosafoagyare/DistGD'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
