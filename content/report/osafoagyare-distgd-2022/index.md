@@ -69,7 +69,8 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Three-node example'
-  focal_point: ""
+  focal_point: Smart
+  placement: 1
   preview_only: false
 
 # Associated Projects (optional).
