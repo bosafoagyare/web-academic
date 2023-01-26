@@ -4,6 +4,9 @@ summary: A Distributed Optimization Package in R using Gradient Descent.
 featured: true
 tags:
   - R
+ 
+type: page
+
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -28,7 +31,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 
