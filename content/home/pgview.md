@@ -22,5 +22,9 @@ design:
   # Use a 1-column layout
   columns: "2" 
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd830&w=302&t=m&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&co=2d78ad&cmo=f71e1e&cmn=f4940a&ct=ffffff'></script>
+### Graduate Student Instructor, University of Michigan, Ann Arbor
+- STATS 513 - Regression and Data Analysis (Graduate Level) &nbsp; || &nbsp; Winter 2023
+- STATS 501 - Applied Statistics II (GLMs, Mixed Models & Semi-Parametric Models) &nbsp; || &nbsp; Winter 2023
+- STATS 306 - Introduction to Statistical Computing (∼40 students) &nbsp; || &nbsp; Winter & Fall 2022
+- STATS 406 - Computational Methods in Statistics and Data Science (∼75 students) &nbsp; || &nbsp; Fall 2021
 
