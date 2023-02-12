@@ -30,5 +30,5 @@ design:
 ---
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd830&w=302&t=m&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&co=2d78ad&cmo=f71e1e&cmn=f4940a&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd830&w=310&t=m&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&co=2d78ad&cmo=f71e1e&cmn=f4940a&ct=ffffff'></script><br/>
 
