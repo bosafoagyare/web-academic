@@ -22,6 +22,7 @@ design:
   # Use a 1-column layout
   columns: "2" 
 ---
+
 ### Graduate Student Instructor, University of Michigan, Ann Arbor
 - STATS 513 - Regression and Data Analysis (Graduate Level) &nbsp; || &nbsp; Winter 2023
 - STATS 501 - Applied Statistics II (GLMs, Mixed Models & Semi-Parametric Models) &nbsp; || &nbsp; Winter 2023
