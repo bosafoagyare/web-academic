@@ -31,3 +31,4 @@ design:
 <!--<a href='https://clustrmaps.com/site/1bszr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94'/></a>-->
 
 <!--<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94"></script>-->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94&cl=ffffff&w=a"></script>
