@@ -28,3 +28,4 @@ content:
 design:
   columns: '2'
 ---
+<a href='https://clustrmaps.com/site/1bszr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=8fvHzo2TbhnQ_DEXv2wetFcZcCmIVCzrg7kLDuRfo94'/></a>
