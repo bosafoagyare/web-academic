@@ -6,7 +6,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 200
+weight: 80
 
 # Section title
 title: jj
@@ -22,6 +22,8 @@ design:
   # Use a 1-column layout
   columns: "2" 
 ---
+
+
 
 ### Graduate Student Instructor, University of Michigan, Ann Arbor
 - STATS 513 - Regression and Data Analysis (Graduate Level) &nbsp; || &nbsp; Winter 2023
