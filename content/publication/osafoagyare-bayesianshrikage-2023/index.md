@@ -49,7 +49,7 @@ abstract: Linear regression sometimes present us with the problem of
  shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
  and the average effective sample size per second, Neff/T. Consequently,
  we apply these methods on the protein expression genetics data from the
- National cancer Institute.
+ National cancer Institute. 
 
 # Summary. An optional shortened abstract.
 summary: ''
