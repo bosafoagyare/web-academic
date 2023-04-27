@@ -45,7 +45,7 @@ abstract: Linear regression sometimes present us with the problem of
  we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
  state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
  method in estimating the posterior distributions of two commonly used
- Bayesian shrinkage models, viz: the Bayesian Lasso (BL) and the Spike-and-Slab
+ Bayesian shrinkage models, viz the Bayesian Lasso (BL) and the Spike-and-Slab
  shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
  and the average effective sample size per second, Neff/T. Consequently,
  we apply these methods on the protein expression genetics data from the
