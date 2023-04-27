@@ -34,7 +34,7 @@ publication: ''
 publication_short: ''
 
 abstract: We compare predictions from an Autoregressive (AR) Model and a Gaussian Process Regression (GPR) Model based on Exploratory Data Analysis (EDA) to establish which approach gives the best result in terms of minimum error. The data set analyzed is about the daily crimes in Boston, it contains records from the new
-crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015 to September 2018: 319,073 observations are recorded of 17 variables.
+crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015 to September 2018, 319,073 observations are recorded of 17 variables.
 
 
 # Summary. An optional shortened abstract.
