@@ -32,8 +32,24 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: We compare predictions from an Autoregressive (AR) Model and a Gaussian Process Regression (GPR) Model based on Exploratory Data Analysis (EDA) to establish which approach gives the best result in terms of minimum error. The data set analyzed is about the daily crimes in Boston, it contains records from the new
-crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015 to September 2018: 319,073 observations are recorded of 17 variables.
+abstract: Linear regression sometimes present us with the problem of 
+ high dimensionality –especially when the covariates, p is far greater than
+ the sample size, n. A frequentist approach to tackling such problems include
+ adopting shrinkage methods via penalization. However, penalization methods
+ present yet another challenge of quantifying parameter uncertainties.
+ Bayesian approach gives us the power to quantity parameters via estimating
+ the posterior distribution for such parameters using Markov Chain
+ Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
+ we need super fast MCMC algorithms that are efficient and 
+ computationally relative inexpensive. In this simulation study, 
+ we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
+ state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
+ method in estimating the posterior distributions of two commonly used
+ Bayesian shrinkage models, viz: the Bayesian Lasso (BL) and the Spike-and-Slab
+ shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
+ and the average effective sample size per second, Neff/T. Consequently,
+ we apply these methods on the protein expression genetics data from the
+ National cancer Institute.
 
 # Summary. An optional shortened abstract.
 summary: ''
