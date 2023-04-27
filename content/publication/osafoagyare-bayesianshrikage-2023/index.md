@@ -1,5 +1,6 @@
 ---
-title: "Prediction of Metastasis Event using Hierarchical Classification with Elastic Nets"
+title: "A Simulation Study on High Dimensional Shrinkage Feature
+Selection Using MCMC Methods"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
