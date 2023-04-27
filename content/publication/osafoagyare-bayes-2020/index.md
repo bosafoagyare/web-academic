@@ -33,7 +33,25 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: We compare federal election results for each state versus the USA in every second year from 1992 to 2016 to model partisan lean of each state and its dependence on the nationwide popular vote. For each state, we model both its current partisan lean and its rate of change, as well as sensitivity of state results with respect to the nationwide popular vote, using a Bayesian Hierarchical Model. We then apply this model to predict and compare results with the actual values for the 2018 election.
+abstract: Linear regression sometimes present us with the problem of 
+ high dimensionality –especially when the covariates, p is far greater than
+ the sample size, n. A frequentist approach to tackling such problems include
+ adopting shrinkage methods via penalization. However, penalization methods
+ present yet another challenge of quantifying parameter uncertainties.
+ Bayesian approach gives us the power to quantity parameters via estimating
+ the posterior distribution for such parameters using Markov Chain
+ Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
+ we need super fast MCMC algorithms that are efficient and 
+ computationally relative inexpensive. In this simulation study, 
+ we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
+ state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
+ method in estimating the posterior distributions of two commonly used
+ Bayesian shrinkage models, viz: the Bayesian Lasso (BL) and the Spike-and-Slab
+ shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
+ and the average effective sample size per second, Neff/T. Consequently,
+ we apply these methods on the protein expression genetics data from the
+ National cancer Institute.
+
 
 # Summary. An optional shortened abstract.
 summary: ''
