@@ -25,8 +25,9 @@ design:
 ---
 
 ### Graduate Student Instructor, University of Michigan, Ann Arbor
-- STATS 513 - Regression and Data Analysis (Graduate Level) &nbsp; || &nbsp; Winter 2023
-- STATS 501 - Applied Statistics II (GLMs, Mixed Models & Semi-Parametric Models) &nbsp; || &nbsp; Winter 2023
+- STATS 401 - Applied Statistical Methods II (Undergraduate level Regression and ANOVA) &nbsp; || &nbsp; Fall 2023
+- STATS 513 - Regression and Data Analysis (Graduate Level ~ 51 students) &nbsp; || &nbsp; Winter 2023
+- STATS 501 - Applied Statistics II (GLMs, Mixed Models & Semi-Parametric Models ~ 38 students) &nbsp; || &nbsp; Winter 2023
 - STATS 306 - Introduction to Statistical Computing (∼40 students) &nbsp; || &nbsp; Winter & Fall 2022
 - STATS 406 - Computational Methods in Statistics and Data Science (∼75 students) &nbsp; || &nbsp; Fall 2021
 
