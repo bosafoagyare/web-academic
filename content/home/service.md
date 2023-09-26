@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Member, Computing Committee
-    company: Dept. of Statistics, Michigan
-    company_url: https://lsa.umich.edu/stats
-    company_logo: umich
-    location: Michigan
-    date_start: '2023-09-01'
-    date_end: ''
-    description: ''
+    company: University of Nevada, Reno
+    company_url: https://www.unr.edu/math
+    company_logo: unr
+    location: Nevada
+    date_start: '2021-07-12'
+    date_end: '2021-08-12'
+    description: Teach summer classes in Pre-Calculus II (MATH 127).
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
