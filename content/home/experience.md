@@ -29,7 +29,7 @@ experience:
     location: Nevada
     date_start: '2021-07-12'
     date_end: '2021-08-12'
-    description: Teach summer classes in Pre-Calculus II (MATH 127).
+    description: ''
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
