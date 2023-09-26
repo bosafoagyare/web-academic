@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Member, Computing Committee
-    company: University of Nevada, Reno
+    company: Dept. of Statistics, Michigan
     company_url: https://www.unr.edu/math
     company_logo: unr
     location: Nevada
