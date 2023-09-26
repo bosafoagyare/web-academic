@@ -1,7 +1,7 @@
 ---
 # An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: service
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Service
+title: Working Experience
 subtitle:
 
 # Date format for experience
@@ -25,51 +25,38 @@ experience:
   - title: Member, Computing Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
-    company_logo: Ann Arbor
-    location: Nevada
-    date_start: '2021-07-12'
-    date_end: '2021-08-12'
-    description: Teach summer classes in Pre-Calculus II (MATH 127).
+    company_logo: um
+    location: Michigan
+    date_start: '2023-09-01'
+    date_end: ''
+    description: ''
 
-  - title: Summer Actuarial Intern
-    company: CAS Student Central
+  - title: Member, Recruitment & Admissions Committee
+    company: Dept. of Statistics, Michigan
+    company_url: https://lsa.umich.edu/stats
+    company_logo: um
+    location: Michigan
+    date_start: '2022-01-01'
+    date_end: ''
+    description: ''
+
+  - title: Member, Curriculum Committee
+    company: Dept. of Statistics, Michigan
+    company_url: https://lsa.umich.edu/stats
+    company_logo: um
+    location: Michigan
+    date_start: '2023-09-01'
+    date_end: ''
+    description: ''
+
+  - title: Vice President
+    company: Actuarial Science Students Association, KNUST
     company_url: https://www.casact.org/
-    company_logo: cas
+    company_logo: actuarial_science_students'_association,_knust
     location: ''
-    date_start: '2021-06-28'
-    date_end: '2021-08-14'
-    description: |2-
-        Casualty Actuarial Society P&C training in:
-        
-        * Ratemaking
-        * Reserving
-        * Predictive Modeling
-        * Data Visualization
-        
-  - title: Predictive Modeling Intern
-    company: Employers Insurance Group
-    company_url: https://www.employers.com/
-    company_logo: eig
-    location: Nevada
-    date_start: '2020-05-26'
-    date_end: '2020-08-14'
-    description: |2-
-              
-        * Performed Territorial Analysis on claim frequencies using Spatially Constrained Clustering Algorithms and Generalized Additive Models to re-cluster rating territories for refining pricing models.
-        * Built Loss Development Models to estimate future losses using Elastic-Net Poisson GLM. 
-        * Built Pure Premium models using GLMs and Zero-Inflated Models to predict future loss costs.
-
-  - title: Math Instructor
-    company: International Community School
-    company_url: https://icsghana.org/
-    company_logo: ics
-    location: Ghana
-    date_start: '2018-08-03'
-    date_end: '2019-06-14'
-    description: |2-
-              
-        * Taught Cambridge O and A Level Mathematics to prepare students for the IGCSE exams. 
-        * Rated distinction in teaching within first 3 months into the job.
+    date_start: '2015-08-01'
+    date_end: '2016-05-31'
+    description: ''
 
 design:
   columns: '2'
