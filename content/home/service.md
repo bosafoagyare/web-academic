@@ -27,7 +27,7 @@ experience:
   - title: Member, Computing Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
-    company_logo: umich
+    company_logo: um
     location: Michigan
     date_start: '2023-09-01'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
   - title: Member, Recruitment & Admissions Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
-    company_logo: umich
+    company_logo: um
     location: Michigan
     date_start: '2022-01-01'
     date_end: ''
@@ -45,7 +45,7 @@ experience:
   - title: Member, Curriculum Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
-    company_logo: umich
+    company_logo: um
     location: Michigan
     date_start: '2023-09-01'
     date_end: ''
