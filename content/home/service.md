@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Service
+title: Service & Extra-curricular
 subtitle:
 
 # Date format for experience
