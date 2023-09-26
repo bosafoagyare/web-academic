@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Working Experience
+title: Service
 subtitle:
 
 # Date format for experience
@@ -25,7 +25,7 @@ experience:
   - title: Member, Computing Committee
     company: Dept. of Statistics, Michigan
     company_url: https://lsa.umich.edu/stats
-    company_logo: um
+    company_logo: umich
     location: Michigan
     date_start: '2023-09-01'
     date_end: ''
