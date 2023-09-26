@@ -1,5 +1,5 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Working Experience
+title: Service
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
+  - title: Member, Computing Committee
     company: University of Nevada, Reno
     company_url: https://www.unr.edu/math
     company_logo: unr
