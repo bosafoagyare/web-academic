@@ -1,7 +1,7 @@
 ---
 # An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: service
+widget: experience
 
 # This file represents a page section.
 headless: true
