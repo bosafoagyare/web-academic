@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Member, Computing Committee
     company: Dept. of Statistics, Michigan
-    company_url: https://www.unr.edu/math
-    company_logo: unr
+    company_url: https://lsa.umich.edu/stats
+    company_logo: Ann Arbor
     location: Nevada
     date_start: '2021-07-12'
     date_end: '2021-08-12'
