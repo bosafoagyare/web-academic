@@ -1,5 +1,3 @@
-
-
 ---
 # An instance of the Service widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
