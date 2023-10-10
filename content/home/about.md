@@ -9,7 +9,7 @@ active: true
 # Design of section
 design:
   background:
-    gradient_angle: 0
+    gradient_angle: 90
     gradient_start: 'rgb(224,223,255)'
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false 
