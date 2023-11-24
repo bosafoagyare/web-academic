@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics
+  - course: PhD in **Statistics**
     institution: University of Michigan
     year: 2026 (Expected)
     
