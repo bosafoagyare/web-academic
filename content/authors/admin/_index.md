@@ -14,7 +14,7 @@ organizations:
   url: https://lsa.umich.edu/stats
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Statistics student.
+bio: " "
 
 # Interests to show in About widget
 interests:
