@@ -28,6 +28,16 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2024-03-29"
+  description: ""
+  organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
+  organization_url: https://sites.lsa.umich.edu/mssiss/
+  organization_logo: ''
+  title: Best Poster Award
+  url: ""
+
+- certificate_url: ''
+  date_end: ""
   date_start: "2021-07-25"
   description: ""
   organization: International Association of Black Actuaries (IABA)
