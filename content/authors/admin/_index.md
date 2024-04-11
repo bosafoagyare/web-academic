@@ -20,7 +20,7 @@ bio: " "
 interests:
 - Statistical Machine Learning
 - Quantile and Expectile Regression
-- Non-Parametric Regression
+- Non and Semi-Parametric Regression
 - High-Dimensional Statistics
 - Computational Statistics and Optimization
 - Causal Inference
