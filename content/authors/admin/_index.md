@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <span style="color:red;">Benjamin Osafo Agyare</span>
+title: Benjamin Osafo Agyare
 
 # Is this the primary user of the site?
 superuser: true
