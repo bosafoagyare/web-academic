@@ -33,7 +33,7 @@ item:
   organization: Department of Statistics, University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
   organization_logo: ''
-  title: 1st Place, Capstone Project Competition in Statistical Learning
+  title: Outstanding Graduate Student Instructor - Honorable Mention
   url: ""
   
 - certificate_url: ''
