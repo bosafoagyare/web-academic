@@ -7,12 +7,12 @@ widget: about
 active: true
 
 # Design of section
-design:
- background:
-  gradient_angle: 90
-  gradient_start: 'rgb(148,167,140)'
-  gradient_end: 'rgb(148,167,140)'
-  text_color_light: false 
+# design:
+# background:
+#  gradient_angle: 90
+#  gradient_start: 'rgb(148,167,140)'
+#  gradient_end: 'rgb(148,167,140)'
+#  text_color_light: false 
 
 # design:
 #  background:
