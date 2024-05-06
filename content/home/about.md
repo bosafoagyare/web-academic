@@ -12,7 +12,7 @@ design:
   gradient_angle: 90
   gradient_start: 'rgb(153,238,255)'
   gradient_end: 'rgb(153,238,255)'
-  text_color_light: true 
+  text_color_light: false 
 
 # design:
 #  background:
