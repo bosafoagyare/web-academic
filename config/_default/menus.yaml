@@ -14,12 +14,12 @@ main:
 #    identifier: courses
 #  - name: Data science
 #    url: '/course/example/'
-#    weight: 10
-#    parent: courses        
+#    weight: 20
+#    parent: Teaching        
 #  - name: Posts
 #    url: '#posts'
-#    weight: 20
-  - name: Projects
+#    weight: 10
+  - name: Research
     url: '#reports'
     weight: 30
   - name: Software
