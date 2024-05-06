@@ -28,6 +28,16 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2024-05-02"
+  description: ""
+  organization: Department of Statistics, University of Michigan, Ann Arbor
+  organization_url: https://lsa.umich.edu/stats
+  organization_logo: ''
+  title: 1st Place, Capstone Project Competition in Statistical Learning
+  url: ""
+  
+- certificate_url: ''
+  date_end: ""
   date_start: "2024-03-29"
   description: ""
   organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
