@@ -10,8 +10,8 @@ active: true
 design:
  background:
   gradient_angle: 90
-  gradient_start: 'rgb(237,248,232)'
-  gradient_end: 'rgb(237,248,232)'
+  gradient_start: 'rgb(148,167,140)'
+  gradient_end: 'rgb(2148,167,140)'
   text_color_light: false 
 
 # design:
