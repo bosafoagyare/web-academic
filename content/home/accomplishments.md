@@ -42,7 +42,7 @@ item:
   description: ""
   organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
   organization_url: https://sites.lsa.umich.edu/mssiss/
-  company_logo: unr
+  icon: unr
   title: Best Poster Award
   url: ""
 
