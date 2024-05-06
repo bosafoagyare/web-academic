@@ -7,12 +7,6 @@ widget: about
 active: true
 
 # Design of section
-design:
- background:
-  gradient_angle: 90
-  gradient_start: 'rgb(255,255,255)'
-  gradient_end: 'rgb(255,255,255)'
-  text_color_light: false 
 
 # design:
 #  background:
