@@ -8,9 +8,9 @@ main:
     url: '/' 
 # '#about'
     weight: 10
-  - name: Courses
+  - name: Teaching
     url: '/courses/sessions/'
-    weight: 20
+    weight: 30
 #    identifier: courses
 #  - name: Data science
 #    url: '/course/example/'
@@ -21,7 +21,7 @@ main:
 #    weight: 10
   - name: Research
     url: '#reports'
-    weight: 30
+    weight: 20
   - name: Software
     url: '#software'
     weight: 40
