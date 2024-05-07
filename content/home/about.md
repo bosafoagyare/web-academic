@@ -10,11 +10,11 @@ active: true
 design:
  background:
    image: mtn.jpg
-   image_darken: 0.9
+   image_darken: 0.4
    image_parallax: true
    image_position: center
    image_size: cover
-   text_color_light: false
+   text_color_light: true
  spacing:
 #   padding: ["0px", "0", "1px", "0"]
 
