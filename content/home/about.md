@@ -9,15 +9,12 @@ active: true
 # Design of section
 design:
  background:
-    image: doghtml.jpg
-    image_darken: 0.65
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-  text_color_light: false 
+   image: doghtml.jpg
+   image_darken: 0.65
+   image_parallax: true
+   image_position: center
+   image_size: cover
+   text_color_light: false
 
 # design:
 #  background:
