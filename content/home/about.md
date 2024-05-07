@@ -10,8 +10,8 @@ active: true
 design:
  background:
   gradient_angle: 0
-  gradient_start: '#567184'
-  gradient_end: '#567184'
+  gradient_start: '#0ba0a8'
+  gradient_end: '#0ba0a8'
   text_color_light: false 
 
 # design:
