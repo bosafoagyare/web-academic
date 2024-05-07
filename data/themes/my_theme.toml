@@ -47,3 +47,6 @@ link_hover = "#b59104"
   
   home_section_odd = "#00284d"
   home_section_even = "#002547"
+
+  link = "#d1b900"
+  link_hover = "#b59104"
