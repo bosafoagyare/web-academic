@@ -9,14 +9,14 @@ active: true
 # Design of section
 design:
  background:
-   image: doghtml.jpg
-   image_darken: 0.65
+   image: mtn.jpg
+   image_darken: 0.85
    image_parallax: true
    image_position: center
    image_size: cover
    text_color_light: false
  spacing:
-   padding: ["10px", "0", "10px", "0"]
+   padding: ["5px", "0", "5px", "0"]
 
 # design:
 #  background:
