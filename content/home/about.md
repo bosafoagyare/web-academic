@@ -14,8 +14,7 @@ design:
    image_parallax: true
    image_position: center
    image_size: cover
-   text_color: 'rgb(148,167,140)'
-#   text_color_light: true
+   text_color_light: true
  spacing:
 #   padding: ["0px", "0", "1px", "0"]
 
