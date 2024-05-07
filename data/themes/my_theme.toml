@@ -40,7 +40,7 @@ link_hover = "#b59104"
 
 
 [dark]
-  menu_primary = "#b59104"
+  menu_primary = "#f0cb37"
   menu_text = "#00284d"
   menu_text_active = "#002547"
   menu_title = "#002547"
