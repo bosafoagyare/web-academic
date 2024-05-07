@@ -18,7 +18,7 @@ light = true
 #home_section_even = "#f7f7f7"
 
 # Primary
-primary = "#d5b10f"
+primary = "rgb(255, 255, 255)"
 
 # Menu
 menu_primary = "#ffd738"
