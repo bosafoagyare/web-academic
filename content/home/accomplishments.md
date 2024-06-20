@@ -28,6 +28,16 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2024-05-02"
+  description: ""
+  organization: Department of Statistics, University of Michigan, Ann Arbor
+  organization_url: https://lsa.umich.edu/stats
+  organization_logo: ''
+  title: Outstanding Graduate Student Instructor - Honorable Mention
+  url: ""
+  
+- certificate_url: ''
+  date_end: ""
   date_start: "2024-06-02"
   description: ""
   organization: Rackham Graduate School
@@ -54,7 +64,7 @@ item:
   organization_url: https://sites.lsa.umich.edu/mssiss/
   organization_logo: mssiss
   company_logo: mssiss
-  icon: mssiss
+  icon: assets/media/icons/brands/mssiss
   title: Best Poster Award
   url: ""
 
