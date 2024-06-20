@@ -32,7 +32,7 @@ item:
   description: ""
   organization: Rackham Graduate School
   organization_url: https://rackham.umich.edu/
-  organization_logo: ''
+  organization_logo: um
   title: Rackham Conference Travel Grant
   url: ""
 
