@@ -28,6 +28,16 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2024-06-02"
+  description: ""
+  organization: Rackham Graduate School
+  organization_url: https://rackham.umich.edu/
+  organization_logo: ''
+  title: Rackham Conference Travel Grant
+  url: ""
+
+- certificate_url: ''
+  date_end: ""
   date_start: "2024-05-02"
   description: ""
   organization: Department of Statistics, University of Michigan, Ann Arbor
@@ -42,7 +52,9 @@ item:
   description: ""
   organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
   organization_url: https://sites.lsa.umich.edu/mssiss/
-  icon: unr
+  organization_logo: mssiss
+  company_logo: mssiss
+  icon: mssiss
   title: Best Poster Award
   url: ""
 
