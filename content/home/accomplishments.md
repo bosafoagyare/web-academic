@@ -32,26 +32,6 @@ item:
   description: ""
   organization: Rackham Graduate School
   organization_url: https://rackham.umich.edu/
-  organization_logo: ''
-  title: Rackham Conference Travel Grant
-  url: ""
-
-- certificate_url: ''
-  date_end: ""
-  date_start: "2024-03-29"
-  description: ""
-  organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences
-  organization_url: https://sites.lsa.umich.edu/mssiss/
-  organization_logo: ''
-  title: Best Poster Award
-  url: ""
-  
-- certificate_url: ''
-  date_end: ""
-  date_start: "2024-06-02"
-  description: ""
-  organization: Rackham Graduate School
-  organization_url: https://rackham.umich.edu/
   organization_logo: um
   title: Rackham Conference Travel Grant
   url: ""
