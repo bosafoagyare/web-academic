@@ -32,7 +32,6 @@ item:
   description: ""
   organization: Rackham Graduate School
   organization_url: https://rackham.umich.edu/
-  organization_logo: um
   title: Rackham Conference Travel Grant
   url: ""
 
@@ -42,7 +41,6 @@ item:
   description: ""
   organization: Department of Statistics, University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
-  organization_logo: ''
   title: Outstanding Graduate Student Instructor - Honorable Mention
   url: ""
   
@@ -52,9 +50,6 @@ item:
   description: ""
   organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
   organization_url: https://sites.lsa.umich.edu/mssiss/
-  organization_logo: mssiss
-  company_logo: mssiss
-  icon: assets/media/icons/brands/mssiss
   title: Best Poster Award
   url: ""
 
@@ -64,7 +59,6 @@ item:
   description: ""
   organization: International Association of Black Actuaries (IABA)
   organization_url: https://www.blackactuaries.org/
-  organization_logo: ''
   title: IABA Foundation Scholar
   url: ""
   
@@ -74,7 +68,6 @@ item:
   description: ""
   organization: Department of Statistics, University of Michigan, Ann Arbor
   organization_url: https://lsa.umich.edu/stats
-  organization_logo: ''
   title: 1st Place, Capstone Project Competition in Statistical Learning
   url: ""
   
@@ -84,7 +77,6 @@ item:
   description: ""
   organization: Department of Mathematics & Statistics, University of Nevada, Reno
   organization_url: https://www.unr.edu/math
-  company_logo: unr
   title: 1st Place, Capstone Project Competition in Bayesian Statistics
   url: ""
   
@@ -94,7 +86,6 @@ item:
   description: ""
   organization: Department of Mathematics & Statistics, University of Nevada, Reno
   organization_url: https://www.unr.edu/math
-  organization_logo: unr
   title: 1st Place, Capstone Project Competition in Statistical Computing
   url: ""
 
@@ -106,7 +97,6 @@ item:
   description: ""
   organization: Actuarial Science Students' Association, KNUST
   organization_url: ""
-  organization_logo: ''
   title: 1st Place, KNUST Actuarial Club Annual Interclass Quiz Competition
   url: ""
   
@@ -116,7 +106,6 @@ item:
   description: "Best student award for the West African Senior School Certificate Examination (Out of over 1,000 candidates at Mpraeso High School in 2013)"
   organization: Mpraeso High School (WASSCE 2013 sitting)
   organization_url: ""
-  organization_logo: ''
   title: Overall Best Student
   url: ""
 
