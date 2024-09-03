@@ -85,4 +85,5 @@ I am a 4th-year PhD student in the [Statistics program](https://lsa.umich.edu/st
 
 I am working under the supervision of [Prof. Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on using flexible, non-parametric methods to study the full conditional distribution of a response variable, especially in complex and high-dimensional data scenarios.
 
-When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).{style="font-size: 1.2rem; color: ##ffffff;}
+When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
+{style="font-size: 1.2rem; color: ##ffffff;}
