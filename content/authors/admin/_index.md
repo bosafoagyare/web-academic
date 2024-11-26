@@ -25,6 +25,7 @@ interests:
 - Computational Statistics and Optimization
 - Causal Inference
 - Longitudinal Data Analysis
+- Survival Analysis
 
 # Education to show in About widget
 education:
