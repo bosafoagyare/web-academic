@@ -19,7 +19,7 @@ bio: " "
 # Interests to show in About widget
 interests:
 - Statistical Machine Learning
-- Distribution Learning (Quantile and Expectile Regression)
+- Distributional Learning (Quantile and Expectile Regression)
 - Non and Semi-Parametric Regression
 - High-Dimensional Statistics
 - Computational Statistics and Optimization
