@@ -49,12 +49,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'osafoagyare-metastasis-2022.pdf'
+url_pdf: 'https://arxiv.org/abs/2410.16741'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'osafoagyare-metastasis-2022-slide.pdf'
+url_slides: 'osafoagyare-metastasis-2022.pdf'
 url_source: ''
 url_video: ''
 
