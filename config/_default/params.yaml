@@ -35,7 +35,7 @@ twitter: ''
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
  # - 'Monday 10:00 to 13:00'
-  - 'Saturday 10:00 to 12:00'
+  - 'Saturday 14:00 to 15:30'
 appointment_url: 'https://calendly.com/bosafoagyare/'
 contact_links:
 #  - icon: twitter
