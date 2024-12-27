@@ -1,6 +1,5 @@
 ---
-title: "A Simulation Study on High Dimensional Shrinkage Feature
-Selection Using MCMC Methods"
+title: "Enhancing Computational Efficiency in High-Dimensional Bayesian Analysis: Applications to Cancer Genomics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,24 +31,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: Linear regression sometimes present us with the problem of 
- high dimensionality –especially when the covariates, p is far greater than
- the sample size, n. A frequentist approach to tackling such problems include
- adopting shrinkage methods via penalization. However, penalization methods
- present yet another challenge of quantifying parameter uncertainties.
- Bayesian approach gives us the power to quantity parameters via estimating
- the posterior distribution for such parameters using Markov Chain
- Monte Carlo (MCMC) techniques. With such high dimensional shrinkage methods,
- we need super fast MCMC algorithms that are efficient and 
- computationally relative inexpensive. In this simulation study, 
- we compare and show that the two-Block Gibbs samplers (2BG) is a more efficient
- state of the art MCMC algorithm relative to the three-Block Gibbs samplers (3BG)
- method in estimating the posterior distributions of two commonly used
- Bayesian shrinkage models, viz the Bayesian Lasso (BL) and the Spike-and-Slab
- shrinkage priors. Our criteria for evaluation include the one-lag autocorrelation
- and the average effective sample size per second, Neff/T. Consequently,
- we apply these methods on the protein expression genetics data from the
- National cancer Institute. 
+abstract: In this study, we present a comprehensive evaluation of the Two-Block Gibbs (2BG) sampler as a robust alternative to the traditional Three-Block Gibbs (3BG) sampler in Bayesian shrinkage models. Through extensive simulation studies, we demonstrate that the 2BG sampler exhibits superior computational efficiency and faster convergence rates, particularly in high-dimensional settings where the ratio of predictors to samples is large. We apply these findings to real-world data from the NCI-60 cancer cell panel, leveraging gene expression data to predict protein expression levels. Our analysis incorporates feature selection, identifying key genes that influence protein expression while shedding light on the underlying genetic mechanisms in cancer cells. The results indicate that the 2BG sampler not only produces more effective samples than the 3BG counterpart but also significantly reduces computational costs, thereby enhancing the applicability of Bayesian methods in high-dimensional data analysis. This contribution extends the understanding of shrinkage techniques in statistical modeling and offers valuable insights for cancer genomics research. 
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -65,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'osafoagyare-bayesianshrikage-2023.pdf'
+url_pdf: https://arxiv.org/abs/2410.16741 #'osafoagyare-bayesianshrikage-2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
