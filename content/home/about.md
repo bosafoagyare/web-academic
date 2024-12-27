@@ -7,7 +7,7 @@ widget: about
 active: true
 
 # Design of section
-design:
+# design:
  background:
    image: mtn.jpg
    image_darken: 0.20
