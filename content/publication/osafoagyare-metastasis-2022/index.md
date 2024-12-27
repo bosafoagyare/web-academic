@@ -1,5 +1,5 @@
 ---
-title: "Prediction of Metastasis Event using Hierarchical Classification with Elastic Nets"
+title: "Hierarchical Classification for Predicting Metastasis Using Elastic-Net Regularization on Gene Expression Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,7 +33,17 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: Metastasis is major contributor towards cancer-related mortality and can be difficult to detect during early stages. The ability to identify cancers that may have already metastasized can help increase patient survival. In this study, we utilize publicly available expression profile datasets of cancers from primary sites with or without distal metastasis. We train an elastic net models to predict the origin of primary cancer tissue and whether the primary cancer has metastasized or not. Using the elastic-net for hierarchical classification, we were able to predict the origin tissue at an accuracy of 97% and whether the cancer has already metastasized at an accuracy of 90%. When examining the top influential genes in the model we find that many mitochondrial genes were negatively correlated with metastasis.
+abstract: Metastasis is a leading cause of cancer-related mortality and remains
+challenging to detect during early stages. Accurate identification of cancers likely
+to metastasize can improve treatment strategies and patient outcomes. This study
+leverages publicly available gene expression profiles from primary cancers, with
+and without distal metastasis, to build predictive models. We utilize elastic net
+regularization within a hierarchical classification framework to predict both the
+tissue of origin and the metastasis status of primary tumors. Our elastic net-based hierarchical classification achieved a tissue-
+of-origin prediction accuracy of 97%, and a metastasis prediction accuracy of
+90%. Notably, mitochondrial gene expression exhibited significant negative
+correlations with metastasis, providing potential biological insights into the
+underlying mechanisms of cancer progression.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -54,7 +64,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'osafoagyare-metastasis-2022.pdf'
+# url_slides: 'osafoagyare-metastasis-2022.pdf'
 url_source: ''
 url_video: ''
 
