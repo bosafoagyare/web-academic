@@ -7,15 +7,15 @@ widget: about
 active: true
 
 # Design of section
-# design:
- # background:
- #  image: mtn.jpg
- #  image_darken: 0.20
- #  image_parallax: true
- #  image_position: center
- #  image_size: cover
-##   text_color_light: true
-# spacing:
+design:
+  background:
+   image: mtn.jpg
+   image_darken: 0.10
+   image_parallax: true
+   image_position: center
+   image_size: cover
+#   text_color_light: true
+ spacing:
 #   padding: ["0px", "0", "1px", "0"]
 
 # design:
