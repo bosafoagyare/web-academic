@@ -15,7 +15,7 @@ draft: false
 # - "Equal contribution"
 
 date: "2024-10-26T00:00:00Z"
-doi: ""
+doi: https://arxiv.org/abs/2410.16627
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-05T00:00:00Z"
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://arxiv.org/abs/2410.16741
+url_pdf: https://arxiv.org/abs/2410.16627
 url_code: ''
 url_dataset: ''
 url_poster: ''
