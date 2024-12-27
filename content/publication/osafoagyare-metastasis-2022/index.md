@@ -33,17 +33,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-abstract: Metastasis is a leading cause of cancer-related mortality and remains
-challenging to detect during early stages. Accurate identification of cancers likely
-to metastasize can improve treatment strategies and patient outcomes. This study
-leverages publicly available gene expression profiles from primary cancers, with
-and without distal metastasis, to build predictive models. We utilize elastic net
-regularization within a hierarchical classification framework to predict both the
-tissue of origin and the metastasis status of primary tumors. Our elastic net-based hierarchical classification achieved a tissue-
-of-origin prediction accuracy of 97%, and a metastasis prediction accuracy of
-90%. Notably, mitochondrial gene expression exhibited significant negative
-correlations with metastasis, providing potential biological insights into the
-underlying mechanisms of cancer progression.
+abstract: Metastasis is a leading cause of cancer-related mortality and remains challenging to detect during early stages. Accurate identification of cancers likely to metastasize can improve treatment strategies and patient outcomes. This study leverages publicly available gene expression profiles from primary cancers, with and without distal metastasis, to build predictive models. We utilize elastic net regularization within a hierarchical classification framework to predict both the tissue of origin and the metastasis status of primary tumors. Our elastic net-based hierarchical classification achieved a tissue- of-origin prediction accuracy of 97%, and a metastasis prediction accuracy of 90%. Notably, mitochondrial gene expression exhibited significant negative correlations with metastasis, providing potential biological insights into the underlying mechanisms of cancer progression.
 
 # Summary. An optional shortened abstract.
 summary: ''
