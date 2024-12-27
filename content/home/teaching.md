@@ -25,7 +25,7 @@ design:
 ---
 
 ### Graduate Student Instructor, University of Michigan, Ann Arbor
-- STATS 280 - Honors Introduction to Statistics & Data Analysis (~ 40 students) &nbsp; || &nbsp; Winter 2025 & Fall 2024
+- STATS 280 - Honors Introduction to Statistics & Data Analysis (~ 40 students) &nbsp; || &nbsp; Fall 2024
 - STATS 401 - Applied Statistical Methods II (UG Level Regression and ANOVA) &nbsp; || &nbsp; Winter 2024 & Fall 2023
 - STATS 513 - Regression and Data Analysis (Graduate Level ~ 51 students) &nbsp; || &nbsp; Winter 2023
 - STATS 501 - Applied Statistics II (GLMs, Mixed Models & Semi-Parametric Models) &nbsp; || &nbsp; Winter 2023
