@@ -10,7 +10,7 @@ active: true
 design:
   background:
    image: mtn.jpg
-   image_darken: 0.10
+   image_darken: 0.20
    image_parallax: true
    image_position: center
    image_size: cover
