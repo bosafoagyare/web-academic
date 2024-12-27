@@ -15,7 +15,7 @@ active: true
  #  image_position: center
  #  image_size: cover
 ##   text_color_light: true
- spacing:
+# spacing:
 #   padding: ["0px", "0", "1px", "0"]
 
 # design:
