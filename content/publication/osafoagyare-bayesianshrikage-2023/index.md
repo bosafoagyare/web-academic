@@ -15,7 +15,7 @@ draft: false
 # - "Equal contribution"
 
 date: "2024-10-26T00:00:00Z"
-doi: https://arxiv.org/abs/2410.16627
+doi: https://doi.org/10.48550/arXiv.2410.16627
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-05T00:00:00Z"
