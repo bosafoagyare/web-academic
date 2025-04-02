@@ -26,6 +26,7 @@ interests:
 - Causal Inference
 - Longitudinal Data Analysis
 - Survival Analysis
+- Latent Variable Modeling/SEM
 
 # Education to show in About widget
 education:
