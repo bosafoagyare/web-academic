@@ -28,6 +28,15 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2025-06-02"
+  description: ""
+  organization: Rackham Graduate School
+  organization_url: https://rackham.umich.edu/
+  title: Rackham Doctoral Intern Fellowship
+  url: ""
+
+- certificate_url: ''
+  date_end: ""
   date_start: "2024-06-02"
   description: ""
   organization: Rackham Graduate School
