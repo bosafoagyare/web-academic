@@ -89,3 +89,5 @@ I am working under the supervision of [Prof. Kerby Shedden](https://lsa.umich.ed
 
 When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
 
+*Go Blue!*
+
