@@ -28,7 +28,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
-  date_start: "2025-06-02"
+  date_start: "2025-05-01"
   description: ""
   organization: Rackham Graduate School
   organization_url: https://rackham.umich.edu/
