@@ -22,14 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
+  - title: Instructor of Record for Pre-Calculus II
     company: University of Nevada, Reno
     company_url: https://www.unr.edu/math
     company_logo: unr
     location: Nevada
     date_start: '2021-07-12'
     date_end: '2021-08-12'
-    description: ''
+    description: |2-
+        
+        * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.
+        * Delivered lectures and facilitated in-class problem-solving sessions to promote conceptual understanding and mathematical reasoning.
+        * Developed, administered, and graded assignments, quizzes, and exams; provided timely and constructive feedback to support student progress.
 
   - title: Summer Actuarial Intern
     company: CAS Student Central
