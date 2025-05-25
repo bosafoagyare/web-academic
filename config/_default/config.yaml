@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Benjamin Osafo Agyare # Website name
-baseurl: '' # Website URL
-copyright: '© B. Osafo Agyare 2024' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://bosafoagyare.netlify.app/' # Website URL
+copyright: '© B. Osafo Agyare 2025' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
