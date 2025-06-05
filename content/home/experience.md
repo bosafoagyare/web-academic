@@ -25,7 +25,7 @@ experience:
   - title: AI & Data Science Summer Associate
     company: JPMorganChase
     company_url: https://www.jpmorganchase.com/
-    company_logo: jpmc
+    company_logo: jpmc3
     location: Delaware
     date_start: '2025-06-02'
     date_end: '2025-08-22'
