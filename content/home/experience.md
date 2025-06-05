@@ -35,6 +35,16 @@ experience:
         * Delivered lectures and facilitated in-class problem-solving sessions to promote conceptual understanding and mathematical reasoning.
         * Developed, administered, and graded assignments, quizzes, and exams; provided timely and constructive feedback to support student progress.
 
+
+  - title: AI & Data Science Summer Associate
+    company: JPMorganChase
+    company_url: https://www.jpmorganchase.com/
+    company_logo: jpmc
+    location: Nevada
+    date_start: '2025-06-02'
+    date_end: '2025-08-22'
+    description: |2-
+
   - title: Summer Actuarial Intern
     company: CAS Student Central
     company_url: https://www.casact.org/
