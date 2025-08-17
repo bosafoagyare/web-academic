@@ -59,7 +59,7 @@ item:
   description: ""
   organization: Michigan Student Symposium for Interdisciplinary Statistical Sciences 
   organization_url: https://sites.lsa.umich.edu/mssiss/
-  title: Best Poster Award
+  title: Best Poster Award - MSSISS 2024
   url: ""
 
 - certificate_url: ''
