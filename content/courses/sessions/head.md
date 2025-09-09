@@ -24,3 +24,4 @@ design:
   columns: "1" 
 ---
 
+(Links redirect to course webpages)
