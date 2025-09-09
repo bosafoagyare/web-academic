@@ -13,7 +13,7 @@ weight: 1
 title: Teaching
 
 # Section subtitle
-subtitle:
+subtitle:(Links redirect to course webpages)
 
 # content
 
@@ -24,4 +24,4 @@ design:
   columns: "1" 
 ---
 
-(Links redirect to course webpages)
+<center>(Links redirect to course webpages)</center>
