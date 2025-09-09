@@ -13,7 +13,7 @@ weight: 1
 title: Teaching
 
 # Section subtitle
-subtitle:(Links redirect to course webpages)
+subtitle: (Links redirect to course webpages)
 
 # content
 
