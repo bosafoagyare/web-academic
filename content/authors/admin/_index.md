@@ -83,7 +83,7 @@ user_groups:
 - Teachers
 ---
 
-I am a 5th-year PhD candidate in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from Mpraeso, a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in [Statistics & Data Science](https://www.unr.edu/math) at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).   
+I am a 5th-year PhD candidate in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from [Mpraeso](https://en.wikipedia.org/wiki/Mpraeso), a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in [Statistics & Data Science](https://www.unr.edu/math) at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).   
 
 I am working under the supervision of [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on using flexible, non-parametric methods to study the full conditional distribution of a response variable, especially in complex and high-dimensional data scenarios.
 
