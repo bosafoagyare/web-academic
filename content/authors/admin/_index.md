@@ -23,7 +23,7 @@ interests:
 - Non and Semi-Parametric Models
 - High-Dimensional Statistics
 - Computational Statistics and Optimization
-- Causal Inference
+- Causal Inference and Experimentation
 - Longitudinal/Panel Data Analysis
 - Survival Analysis
 - Latent Variable Modeling/SEM
