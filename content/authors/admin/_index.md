@@ -18,7 +18,7 @@ bio: " "
 
 # Interests to show in About widget
 interests:
-- Statistical Machine Learning (with Explainability ~ XAI)
+- Statistical Machine Learning (now with Explainability ~ XAI)
 - Distributional Learning (Quantile and Expectile Regression)
 - Non and Semi-Parametric Models
 - High-Dimensional Statistics
