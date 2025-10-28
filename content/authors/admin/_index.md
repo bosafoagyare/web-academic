@@ -24,7 +24,7 @@ interests:
 - High-Dimensional Statistics
 - Computational Statistics and Optimization
 - Causal Inference and Experimentation
-- Longitudinal/Panel Data Analysis
+- Longitudinal/Hierarchical Data Analysis
 - Survival Analysis
 - Latent Variable Modeling/SEM
 
