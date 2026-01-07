@@ -85,7 +85,7 @@ user_groups:
 
 I am a 5th-year PhD candidate in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from [Mpraeso](https://en.wikipedia.org/wiki/Mpraeso), a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in [Statistics & Data Science](https://www.unr.edu/math) at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).   
 
-I am working under the supervision of [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on developing flexible, non-parametric methods to study covariate-association with the full conditional distribution of a response variable, especially in complex and high-dimensional data scenarios.
+I am working under the supervision of [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on developing novel flexible, non-parametric methods to study covariate-association with the full conditional distribution of a response variable, especially in complex and high-dimensional data scenarios.
 
 When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
 
