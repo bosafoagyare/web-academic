@@ -89,7 +89,7 @@ I am working under the supervision of [Professor Kerby Shedden](https://lsa.umic
 
 When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
 
-My work has found applications in advancing healthcare through statistical methodology and machine learning, with contributions to precision medicine in cancer research, cardiovascular health, anthropometry, and public health. More recently, I have been collaborating with the [AEDI](https://aedi.ssw.umich.edu/) on projects related to asset development, education, and financial inclusion. This work focuses on creating opportunities for low-income children and families in the U.S. and worldwide, helping to break cycles of poverty and foster upward economic mobility.
+My work has found applications in advancing healthcare through statistical methodology and machine learning, with contributions to precision medicine in cardiovascular health, anthropometry, and public health. More recently, I have been collaborating with the [AEDI](https://aedi.ssw.umich.edu/) on projects related to asset development, education, and financial inclusion. This work focuses on creating opportunities for low-income children and families in the U.S. and worldwide, helping to break cycles of poverty and foster upward economic mobility.
 
 *Go Blue!*
 
