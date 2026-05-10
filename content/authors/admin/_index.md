@@ -6,7 +6,7 @@ title: Benjamin Osafo Agyare
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: PhD in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of Michigan
-    year: 2026 (Expected)
+    year: 2026
     
   - course: MS in Statistics & Data Science
     institution: University of Nevada, Reno
