@@ -24,8 +24,7 @@ design:
   columns: "1" 
 ---
 
-
-          [See student reviews](https://bosafoagyare.netlify.app/uploads/reviews.pdf/)
+[See student reviews](https://bosafoagyare.netlify.app/uploads/reviews.pdf/)
 
 
  
