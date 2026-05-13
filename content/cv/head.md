@@ -10,10 +10,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Teaching
+title: CV/Resume
 
 # Section subtitle
-subtitle: (Links redirect to course webpages)
+subtitle: 
 
 # content
 
