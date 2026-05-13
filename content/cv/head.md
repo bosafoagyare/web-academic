@@ -24,7 +24,7 @@ design:
   columns: "1" 
 ---
 
-[Download CV](https://bosafoagyare.netlify.app/uploads/cv.pdf/)
+<a href="https://bosafoagyare.netlify.app/uploads/cv.pdf">Download academic CV]</a>
 
-[Download one-page Resume](https://bosafoagyare.netlify.app/uploads/resume.pdf/)
+<a href="https://bosafoagyare.netlify.app/uploads/resume.pdf/">Download one-page Resume</a>
  
