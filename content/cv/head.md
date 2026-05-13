@@ -24,24 +24,26 @@ design:
   columns: "1" 
 ---
 <center>
-  <a href="https://example.com">
-    <button style="background-color: #1a1a1a; color: #ffffff; border: 1px solid #333333; padding: 10px 24px; font-size: 15px; font-weight: 500; border-radius: 6px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: 0.5px;">
-      Click Me
-    </button>
-  </a>
-</center>
-
-<center>
-  <a href="https://example.com">
-    <button style="background-color: #0066cc; color: white; border: none; padding: 12px 28px; font-size: 16px; font-weight: bold; border-radius: 8px; cursor: pointer; font-family: sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="[https://example.com](https://bosafoagyare.netlify.app/uploads/cv.pdf)">
+    <button style="background-color: #1a1a1a; color: #d1b900; border: 1px solid #333333; padding: 10px 24px; font-size: 15px; font-weight: 500; border-radius: 6px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: 0.5px;">
       Download academic CV
     </button>
   </a>
 </center>
 
+<br>
 
-<kbd>[**Download academic CV**](https://bosafoagyare.netlify.app/uploads/cv.pdf)</kbd>
+<center>
+  <a href="[https://example.com](https://bosafoagyare.netlify.app/uploads/resume.pdf)">
+    <button style="background-color: #1a1a1a; color: #d1b900; border: 1px solid #333333; padding: 5px 12px; font-size: 15px; font-weight: 500; border-radius: 6px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: 0.5px;">
+      Download one-page Resume
+    </button>
+  </a>
+</center>
 
-<kbd>[**Download one-page Resume**](https://bosafoagyare.netlify.app/uploads/resume.pdf/)</kbd>
+
+<!-- <kbd>[**Download academic CV**](https://bosafoagyare.netlify.app/uploads/cv.pdf)</kbd> -->
+
+<!-- <kbd>[**Download one-page Resume**](https://bosafoagyare.netlify.app/uploads/resume.pdf/)</kbd> -->
 
 
