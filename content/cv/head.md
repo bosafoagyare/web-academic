@@ -26,7 +26,22 @@ design:
 
 <center><a href="https://bosafoagyare.netlify.app/uploads/cv.pdf"><button>Download academic CV</button></a></center>
 
-<kbd><center><a href="https://bosafoagyare.netlify.app/uploads/resume.pdf"><button>Download one-page Resume</button></a></center></kbd>
+<center>
+  <kbd>[**Click Me**](https://example.com)</kbd>
+</center>
+
+<div style="text-align: center;">
+  <kbd>[**Click Me**](https://example.com)</kbd>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <kbd>[**Click Me**](https://example.com)</kbd>
+</div>
+
+<p align="center">
+  <kbd>[**Click Me**](https://example.com)</kbd>
+</p>
+
 
 <kbd>[**Download academic CV**](https://bosafoagyare.netlify.app/uploads/cv.pdf)</kbd>
 
