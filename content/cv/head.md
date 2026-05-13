@@ -24,7 +24,7 @@ design:
   columns: "1" 
 ---
 <center>
-  <a href="[https://example.com](https://bosafoagyare.netlify.app/uploads/cv.pdf)">
+  <a href="https://bosafoagyare.netlify.app/uploads/cv.pdf">
     <button style="background-color: #1a1a1a; color: #d1b900; border: 1px solid #333333; padding: 10px 24px; font-size: 15px; font-weight: 500; border-radius: 6px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: 0.5px;">
       Download academic CV
     </button>
@@ -34,7 +34,7 @@ design:
 <br>
 
 <center>
-  <a href="[https://example.com](https://bosafoagyare.netlify.app/uploads/resume.pdf)">
+  <a href="https://bosafoagyare.netlify.app/uploads/resume.pdf">
     <button style="background-color: #1a1a1a; color: #d1b900; border: 1px solid #333333; padding: 5px 12px; font-size: 15px; font-weight: 500; border-radius: 6px; cursor: pointer; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; letter-spacing: 0.5px;">
       Download one-page Resume
     </button>
