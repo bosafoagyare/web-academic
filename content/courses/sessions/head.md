@@ -23,6 +23,7 @@ design:
   # Use a 1-column layout
   columns: "1" 
 ---
+
 <div align="center">
   [See student reviews](https://bosafoagyare.netlify.app/uploads/reviews.pdf/)
 </div>
