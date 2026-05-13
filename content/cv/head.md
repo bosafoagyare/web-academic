@@ -26,7 +26,7 @@ design:
 
 <center><a href="https://bosafoagyare.netlify.app/uploads/cv.pdf"><button>Download academic CV</button></a></center>
 
-<center><a href="https://bosafoagyare.netlify.app/uploads/resume.pdf"><button>Download one-page Resume</button></a></center>
+<kbd><center><a href="https://bosafoagyare.netlify.app/uploads/resume.pdf"><button>Download one-page Resume</button></a></center></kbd>
 
 <kbd>[**Download academic CV**](https://bosafoagyare.netlify.app/uploads/cv.pdf)</kbd>
 
