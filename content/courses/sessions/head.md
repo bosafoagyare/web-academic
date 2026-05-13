@@ -24,8 +24,8 @@ design:
   columns: "1" 
 ---
 
-<center>
+#<center>
   [See student reviews](https://bosafoagyare.netlify.app/uploads/reviews.pdf/)
-</center>
+#</center>
 
  
