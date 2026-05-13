@@ -24,11 +24,7 @@ design:
   columns: "1" 
 ---
 
-<a href="https://bosafoagyare.netlify.app/uploads/cv.pdf">Download academic CV</a>
+<center><a href="https://bosafoagyare.netlify.app/uploads/cv.pdf"><button>Download academic CV</button></a></center>
 
-<kbd>[**Click Me**](https://example.com)</kbd>
-
-<center><button name="button" onclick="http://www.google.com">Click me</button></center>
-
-<a href="https://bosafoagyare.netlify.app/uploads/resume.pdf/">Download one-page Resume</a>
+<center><kbd>[**Download one-page Resume**](https://bosafoagyare.netlify.app/uploads/resume.pdf/)</kbd></center>
  
