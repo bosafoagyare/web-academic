@@ -25,6 +25,6 @@ design:
 ---
 
 <a href="https://bosafoagyare.netlify.app/uploads/cv.pdf">Download academic CV</a>
-
+<center><button name="button" onclick="http://www.google.com">Click me</button></center>
 <a href="https://bosafoagyare.netlify.app/uploads/resume.pdf/">Download one-page Resume</a>
  
