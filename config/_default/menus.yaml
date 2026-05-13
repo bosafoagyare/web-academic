@@ -46,3 +46,7 @@ main:
 #  - name: Resume
 #    url: uploads/cv.pdf
 #    weight: 100
+  - name: CV
+    url: '/cv/'
+    weight: 120
+
