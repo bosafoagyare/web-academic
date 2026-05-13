@@ -31,6 +31,15 @@ design:
   </a>
 </center>
 
+<center>
+  <a href="https://example.com">
+    <button style="background-color: #0066cc; color: white; border: none; padding: 12px 28px; font-size: 16px; font-weight: bold; border-radius: 8px; cursor: pointer; font-family: sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      Click Me
+    </button>
+  </a>
+</center>
+
+
 <kbd>[**Download academic CV**](https://bosafoagyare.netlify.app/uploads/cv.pdf)</kbd>
 
 <kbd>[**Download one-page Resume**](https://bosafoagyare.netlify.app/uploads/resume.pdf/)</kbd>
