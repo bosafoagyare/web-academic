@@ -83,13 +83,10 @@ user_groups:
 - Teachers
 ---
 
-I am a 5th-year PhD candidate in the [Statistics program](https://lsa.umich.edu/stats) at the University of Michigan, Ann Arbor. I come from [Mpraeso](https://en.wikipedia.org/wiki/Mpraeso), a beautiful small town in the Okwahu plains in the eastern region of Ghana. I obtained my MS degree in [Statistics & Data Science](https://www.unr.edu/math) at the University of Nevada, Reno. Before that, I received my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/).   
-
-I am working under the supervision of [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html), currently focusing on developing novel flexible, non-parametric methods to study covariate-association with the **full conditional distribution** of a response variable, especially in complex and high-dimensional data scenarios.
-
-When I have some time to spare, I enjoy listening to music, spending time with my friends and family and watching soccer (I'm a staunch fan of Manchester United).
-
-My work has found applications in advancing healthcare through statistical methodology and machine learning, with contributions to precision medicine in cardiovascular health, anthropometry, and public health. More recently, I have been collaborating with the [AEDI](https://aedi.ssw.umich.edu/) on projects related to asset development, education, and financial inclusion. This work focuses on creating opportunities for low-income children and families in the U.S. and worldwide, helping to break cycles of poverty and foster upward economic mobility.
-
+I am a statistician, data scientist, and AI researcher with interests spanning statistical methodology, machine learning, and artificial intelligence. In 2026, I earned my PhD in Statistics from [the University of Michigan](https://lsa.umich.edu/stats), where I was privileged to be advised by [Professor Kerby Shedden](https://lsa.umich.edu/stats/people/faculty/kshedden.html). My doctoral research focused on developing flexible, non-parametric methods for studying the **full conditional distribution** of outcomes, especially in complex, high-dimensional, and incomplete data settings.
+My research focuses on developing robust, interpretable statistical and machine learning methods—and accessible software that brings them into practice—to address real-world challenges in areas such as precision medicine, public health, and socioeconomic mobility. I have also collaborated with the [AEDI](https://aedi.ssw.umich.edu/) on projects related to asset development, education, and financial inclusion. This work seeks to create opportunities for low-income children and families in the United States and around the world, helping to break cycles of poverty and promote upward economic mobility.
+More recently, my interests have expanded to include causal inference, large language models (LLMs), and the broader intersection of statistics and artificial intelligence.
+I am always open to scientific collaborations, particularly in biomedicine, public health, and other interdisciplinary domains where statistical and machine learning methods can help generate meaningful insights. If you are interested in collaborating or discussing potential research opportunities, please feel free to reach out.
+Outside of work, I enjoy listening to music, spending time with friends and family, and following soccer as a lifelong Manchester United supporter.
 *Go Blue!*
 
