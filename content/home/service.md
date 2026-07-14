@@ -28,7 +28,7 @@ experience:
     company_logo: um
     location: Michigan
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2026-07-01'
     description: ''
 
   - title: Member, Recruitment & Admissions Committee
@@ -37,7 +37,7 @@ experience:
     company_logo: um
     location: Michigan
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2026-07-01'
     description: ''
 
   - title: Member, Curriculum Committee
@@ -46,7 +46,7 @@ experience:
     company_logo: um
     location: Michigan
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2026-07-01'
     description: ''
 
   - title: Vice President
